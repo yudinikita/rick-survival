@@ -9,14 +9,14 @@
 <p align="center">
   Вы - Рик Санчес, всеми любимый безумный гений. Выживите и уничтожьте тысячи монстров!
   <br>
-  <a href="https://rick-survival.com"><strong>Открыть сайт »</strong></a>
+  <a href="https://rick-survival.vercel.app"><strong>Открыть сайт »</strong></a>
   <br>
   <br>
   <a href="https://www.youtube.com/watch?v=fFbHJQXk_qM">Трейлер</a>
   ·
   <a href="https://www.youtube.com/watch?v=ZKgzCRgkzhs">Геймлейное видео</a>
   ·
-  <a href="https://rick-survival.com">Скачать</a>
+  <a href="https://github.com/nblackninja/rick-survival/releases/latest">Скачать</a>
 </p>
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178049123-edb92253-aeef-4f41-be85-a99fec02ce1f.gif" width="50">
@@ -120,10 +120,10 @@ yarn electron:dist
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178063027-ce2f4cc0-3322-43fe-aa46-5ecf0d570cf1.gif" width="50">
 
 ## 🗂 Ресурсы
-- [Сайт](https://www.youtube.com/watch?v=fFbHJQXk_qM)
+- [Сайт](https://rick-survival.vercel.app)
 - [Трейлер](https://www.youtube.com/watch?v=fFbHJQXk_qM)
 - [Геймплей](https://www.youtube.com/watch?v=ZKgzCRgkzhs)
-- [Скачать]()
+- [Скачать](https://github.com/nblackninja/rick-survival/releases/latest)
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178062377-7e547aa2-1566-4b1b-869e-54d8e9bdec98.gif" width="50">
 
