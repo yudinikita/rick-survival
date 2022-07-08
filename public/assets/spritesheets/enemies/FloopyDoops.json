@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "FloopyDoops",
+			"format": "RGBA8888",
+			"size": {
+				"w": 366,
+				"h": 1883
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FloopyDoops_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 615
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 86,
+						"w": 358,
+						"h": 529
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 358,
+						"h": 529
+					}
+				},
+				{
+					"filename": "FloopyDoops_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 421,
+						"h": 650
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 206,
+						"w": 354,
+						"h": 444
+					},
+					"frame": {
+						"x": 4,
+						"y": 541,
+						"w": 354,
+						"h": 444
+					}
+				},
+				{
+					"filename": "FloopyDoops_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 47,
+						"w": 94,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 993,
+						"w": 94,
+						"h": 109
+					}
+				},
+				{
+					"filename": "FloopyDoops_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 47,
+						"w": 94,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 1110,
+						"w": 94,
+						"h": 109
+					}
+				},
+				{
+					"filename": "FloopyDoops_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 49,
+						"w": 94,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1227,
+						"w": 94,
+						"h": 107
+					}
+				},
+				{
+					"filename": "FloopyDoops_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 49,
+						"w": 94,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1342,
+						"w": 94,
+						"h": 107
+					}
+				},
+				{
+					"filename": "FloopyDoops_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 53,
+						"w": 102,
+						"h": 101
+					},
+					"frame": {
+						"x": 4,
+						"y": 1457,
+						"w": 102,
+						"h": 101
+					}
+				},
+				{
+					"filename": "FloopyDoops_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 53,
+						"w": 102,
+						"h": 101
+					},
+					"frame": {
+						"x": 106,
+						"y": 993,
+						"w": 102,
+						"h": 101
+					}
+				},
+				{
+					"filename": "FloopyDoops_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 54,
+						"w": 102,
+						"h": 101
+					},
+					"frame": {
+						"x": 106,
+						"y": 1102,
+						"w": 102,
+						"h": 101
+					}
+				},
+				{
+					"filename": "FloopyDoops_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 54,
+						"w": 102,
+						"h": 101
+					},
+					"frame": {
+						"x": 106,
+						"y": 1211,
+						"w": 102,
+						"h": 101
+					}
+				},
+				{
+					"filename": "FloopyDoops_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 55,
+						"w": 102,
+						"h": 99
+					},
+					"frame": {
+						"x": 106,
+						"y": 1320,
+						"w": 102,
+						"h": 99
+					}
+				},
+				{
+					"filename": "FloopyDoops_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 55,
+						"w": 102,
+						"h": 99
+					},
+					"frame": {
+						"x": 4,
+						"y": 1566,
+						"w": 102,
+						"h": 99
+					}
+				},
+				{
+					"filename": "FloopyDoops_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 56,
+						"w": 102,
+						"h": 99
+					},
+					"frame": {
+						"x": 4,
+						"y": 1673,
+						"w": 102,
+						"h": 99
+					}
+				},
+				{
+					"filename": "FloopyDoops_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 56,
+						"w": 102,
+						"h": 99
+					},
+					"frame": {
+						"x": 4,
+						"y": 1780,
+						"w": 102,
+						"h": 99
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

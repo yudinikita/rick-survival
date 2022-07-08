@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "MrNimbus",
+			"format": "RGBA8888",
+			"size": {
+				"w": 503,
+				"h": 1994
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "MrNimbus_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 388,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 374,
+						"h": 714
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 374,
+						"h": 714
+					}
+				},
+				{
+					"filename": "MrNimbus_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 542,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 17,
+						"w": 495,
+						"h": 691
+					},
+					"frame": {
+						"x": 4,
+						"y": 726,
+						"w": 495,
+						"h": 691
+					}
+				},
+				{
+					"filename": "MrNimbus_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 22,
+						"w": 71,
+						"h": 136
+					},
+					"frame": {
+						"x": 4,
+						"y": 1425,
+						"w": 71,
+						"h": 136
+					}
+				},
+				{
+					"filename": "MrNimbus_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 20,
+						"w": 102,
+						"h": 135
+					},
+					"frame": {
+						"x": 4,
+						"y": 1569,
+						"w": 102,
+						"h": 135
+					}
+				},
+				{
+					"filename": "MrNimbus_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 20,
+						"w": 102,
+						"h": 135
+					},
+					"frame": {
+						"x": 83,
+						"y": 1425,
+						"w": 102,
+						"h": 135
+					}
+				},
+				{
+					"filename": "MrNimbus_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 22,
+						"w": 73,
+						"h": 135
+					},
+					"frame": {
+						"x": 4,
+						"y": 1712,
+						"w": 73,
+						"h": 135
+					}
+				},
+				{
+					"filename": "MrNimbus_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 24,
+						"w": 72,
+						"h": 135
+					},
+					"frame": {
+						"x": 4,
+						"y": 1855,
+						"w": 72,
+						"h": 135
+					}
+				},
+				{
+					"filename": "MrNimbus_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 24,
+						"w": 72,
+						"h": 135
+					},
+					"frame": {
+						"x": 84,
+						"y": 1855,
+						"w": 72,
+						"h": 135
+					}
+				},
+				{
+					"filename": "MrNimbus_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 21,
+						"w": 102,
+						"h": 134
+					},
+					"frame": {
+						"x": 85,
+						"y": 1712,
+						"w": 102,
+						"h": 134
+					}
+				},
+				{
+					"filename": "MrNimbus_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 21,
+						"w": 102,
+						"h": 134
+					},
+					"frame": {
+						"x": 114,
+						"y": 1568,
+						"w": 102,
+						"h": 134
+					}
+				},
+				{
+					"filename": "MrNimbus_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 24,
+						"w": 94,
+						"h": 134
+					},
+					"frame": {
+						"x": 195,
+						"y": 1425,
+						"w": 94,
+						"h": 134
+					}
+				},
+				{
+					"filename": "MrNimbus_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 24,
+						"w": 94,
+						"h": 134
+					},
+					"frame": {
+						"x": 224,
+						"y": 1567,
+						"w": 94,
+						"h": 134
+					}
+				},
+				{
+					"filename": "MrNimbus_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 25,
+						"w": 94,
+						"h": 133
+					},
+					"frame": {
+						"x": 297,
+						"y": 1425,
+						"w": 94,
+						"h": 133
+					}
+				},
+				{
+					"filename": "MrNimbus_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 25,
+						"w": 94,
+						"h": 133
+					},
+					"frame": {
+						"x": 164,
+						"y": 1854,
+						"w": 94,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

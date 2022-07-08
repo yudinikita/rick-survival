@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickSpaceSuit",
+			"format": "RGBA8888",
+			"size": {
+				"w": 740,
+				"h": 2001
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickSpaceSuit_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 309,
+						"h": 748
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 305,
+						"h": 747
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 305,
+						"h": 747
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 376,
+						"h": 742
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 371,
+						"h": 740
+					},
+					"frame": {
+						"x": 4,
+						"y": 759,
+						"w": 371,
+						"h": 740
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 118,
+						"h": 158
+					},
+					"frame": {
+						"x": 4,
+						"y": 1507,
+						"w": 118,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 118,
+						"h": 158
+					},
+					"frame": {
+						"x": 4,
+						"y": 1673,
+						"w": 118,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 118,
+						"h": 158
+					},
+					"frame": {
+						"x": 4,
+						"y": 1839,
+						"w": 118,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 118,
+						"h": 158
+					},
+					"frame": {
+						"x": 130,
+						"y": 1507,
+						"w": 118,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 118,
+						"h": 155
+					},
+					"frame": {
+						"x": 130,
+						"y": 1673,
+						"w": 118,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 118,
+						"h": 155
+					},
+					"frame": {
+						"x": 130,
+						"y": 1836,
+						"w": 118,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 118,
+						"h": 155
+					},
+					"frame": {
+						"x": 256,
+						"y": 1507,
+						"w": 118,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 118,
+						"h": 155
+					},
+					"frame": {
+						"x": 256,
+						"y": 1670,
+						"w": 118,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 114,
+						"h": 155
+					},
+					"frame": {
+						"x": 256,
+						"y": 1833,
+						"w": 114,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 114,
+						"h": 155
+					},
+					"frame": {
+						"x": 378,
+						"y": 1833,
+						"w": 114,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 114,
+						"h": 153
+					},
+					"frame": {
+						"x": 500,
+						"y": 1833,
+						"w": 114,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickSpaceSuit_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 114,
+						"h": 153
+					},
+					"frame": {
+						"x": 622,
+						"y": 1833,
+						"w": 114,
+						"h": 153
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

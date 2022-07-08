@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "shnyuk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 503,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Shnyuk_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 124,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 124,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 125,
+						"h": 121
+					},
+					"frame": {
+						"x": 127,
+						"y": 1,
+						"w": 125,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Shnyuk_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 124,
+						"h": 123
+					},
+					"frame": {
+						"x": 254,
+						"y": 1,
+						"w": 124,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 35,
+						"w": 122,
+						"h": 125
+					},
+					"frame": {
+						"x": 380,
+						"y": 1,
+						"w": 122,
+						"h": 125
+					}
+				},
+				{
+					"filename": "Shnyuk_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 510,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 20,
+						"w": 482,
+						"h": 710
+					},
+					"frame": {
+						"x": 1,
+						"y": 128,
+						"w": 482,
+						"h": 710
+					}
+				},
+				{
+					"filename": "Shnyuk_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 37,
+						"w": 122,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 840,
+						"w": 122,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 36,
+						"w": 123,
+						"h": 123
+					},
+					"frame": {
+						"x": 125,
+						"y": 840,
+						"w": 123,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 37,
+						"w": 122,
+						"h": 123
+					},
+					"frame": {
+						"x": 250,
+						"y": 840,
+						"w": 122,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 39,
+						"w": 123,
+						"h": 121
+					},
+					"frame": {
+						"x": 374,
+						"y": 840,
+						"w": 123,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Shnyuk_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 124,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 124,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 125,
+						"h": 121
+					},
+					"frame": {
+						"x": 127,
+						"y": 965,
+						"w": 125,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Shnyuk_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 37,
+						"w": 124,
+						"h": 123
+					},
+					"frame": {
+						"x": 254,
+						"y": 965,
+						"w": 124,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Shnyuk_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 35,
+						"w": 122,
+						"h": 125
+					},
+					"frame": {
+						"x": 380,
+						"y": 965,
+						"w": 122,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:462c8aa58a8bbefd7aa301a166d0e721:ef3a5261e8ef9a6f0bd5f46399592ee4:7310f36aeb0fdd0eda2dea4cc0b49969$"
+	}
+}

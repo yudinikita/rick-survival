@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "SpiritualLeaderRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 717,
+				"h": 1977
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SpiritualLeaderRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 743,
+						"h": 776
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 16,
+						"w": 709,
+						"h": 760
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 709,
+						"h": 760
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 650,
+						"h": 745
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 612,
+						"h": 745
+					},
+					"frame": {
+						"x": 4,
+						"y": 772,
+						"w": 612,
+						"h": 745
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 122,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1525,
+						"w": 122,
+						"h": 144
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 122,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1677,
+						"w": 122,
+						"h": 144
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 122,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1829,
+						"w": 122,
+						"h": 144
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 144
+					},
+					"frame": {
+						"x": 134,
+						"y": 1525,
+						"w": 122,
+						"h": 144
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 107,
+						"h": 143
+					},
+					"frame": {
+						"x": 134,
+						"y": 1677,
+						"w": 107,
+						"h": 143
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 3,
+						"w": 107,
+						"h": 143
+					},
+					"frame": {
+						"x": 134,
+						"y": 1828,
+						"w": 107,
+						"h": 143
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 5,
+						"w": 107,
+						"h": 143
+					},
+					"frame": {
+						"x": 249,
+						"y": 1677,
+						"w": 107,
+						"h": 143
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 107,
+						"h": 143
+					},
+					"frame": {
+						"x": 264,
+						"y": 1525,
+						"w": 107,
+						"h": 143
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 133
+					},
+					"frame": {
+						"x": 249,
+						"y": 1828,
+						"w": 122,
+						"h": 133
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 133
+					},
+					"frame": {
+						"x": 364,
+						"y": 1676,
+						"w": 122,
+						"h": 133
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 122,
+						"h": 133
+					},
+					"frame": {
+						"x": 379,
+						"y": 1525,
+						"w": 122,
+						"h": 133
+					}
+				},
+				{
+					"filename": "SpiritualLeaderRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 133
+					},
+					"frame": {
+						"x": 379,
+						"y": 1817,
+						"w": 122,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

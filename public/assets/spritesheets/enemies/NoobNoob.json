@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "NoobNoob",
+			"format": "RGBA8888",
+			"size": {
+				"w": 464,
+				"h": 1996
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "NoobNoob_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 9,
+						"w": 456,
+						"h": 699
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 456,
+						"h": 699
+					}
+				},
+				{
+					"filename": "NoobNoob_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 444,
+						"h": 651
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 25,
+						"w": 416,
+						"h": 600
+					},
+					"frame": {
+						"x": 4,
+						"y": 711,
+						"w": 416,
+						"h": 600
+					}
+				},
+				{
+					"filename": "NoobNoob_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 50,
+						"w": 66,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 1319,
+						"w": 66,
+						"h": 109
+					}
+				},
+				{
+					"filename": "NoobNoob_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 52,
+						"w": 66,
+						"h": 105
+					},
+					"frame": {
+						"x": 4,
+						"y": 1436,
+						"w": 66,
+						"h": 105
+					}
+				},
+				{
+					"filename": "NoobNoob_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 52,
+						"w": 66,
+						"h": 105
+					},
+					"frame": {
+						"x": 4,
+						"y": 1549,
+						"w": 66,
+						"h": 105
+					}
+				},
+				{
+					"filename": "NoobNoob_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 54,
+						"w": 65,
+						"h": 105
+					},
+					"frame": {
+						"x": 4,
+						"y": 1662,
+						"w": 65,
+						"h": 105
+					}
+				},
+				{
+					"filename": "NoobNoob_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 51,
+						"w": 64,
+						"h": 105
+					},
+					"frame": {
+						"x": 4,
+						"y": 1775,
+						"w": 64,
+						"h": 105
+					}
+				},
+				{
+					"filename": "NoobNoob_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 50,
+						"w": 66,
+						"h": 104
+					},
+					"frame": {
+						"x": 4,
+						"y": 1888,
+						"w": 66,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 52,
+						"w": 64,
+						"h": 104
+					},
+					"frame": {
+						"x": 76,
+						"y": 1775,
+						"w": 64,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 52,
+						"w": 64,
+						"h": 104
+					},
+					"frame": {
+						"x": 77,
+						"y": 1662,
+						"w": 64,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 52,
+						"w": 64,
+						"h": 104
+					},
+					"frame": {
+						"x": 78,
+						"y": 1887,
+						"w": 64,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 52,
+						"w": 64,
+						"h": 104
+					},
+					"frame": {
+						"x": 148,
+						"y": 1774,
+						"w": 64,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 51,
+						"w": 64,
+						"h": 104
+					},
+					"frame": {
+						"x": 150,
+						"y": 1886,
+						"w": 64,
+						"h": 104
+					}
+				},
+				{
+					"filename": "NoobNoob_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 54,
+						"w": 60,
+						"h": 102
+					},
+					"frame": {
+						"x": 78,
+						"y": 1319,
+						"w": 60,
+						"h": 102
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

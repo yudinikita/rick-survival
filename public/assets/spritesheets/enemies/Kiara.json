@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Kiara",
+			"format": "RGBA8888",
+			"size": {
+				"w": 395,
+				"h": 2035
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Kiara_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 353,
+						"h": 726
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 353,
+						"h": 726
+					}
+				},
+				{
+					"filename": "Kiara_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 14,
+						"w": 387,
+						"h": 694
+					},
+					"frame": {
+						"x": 4,
+						"y": 738,
+						"w": 387,
+						"h": 694
+					}
+				},
+				{
+					"filename": "Kiara_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 17,
+						"w": 105,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1440,
+						"w": 105,
+						"h": 143
+					}
+				},
+				{
+					"filename": "Kiara_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 96,
+						"h": 142
+					},
+					"frame": {
+						"x": 4,
+						"y": 1591,
+						"w": 96,
+						"h": 142
+					}
+				},
+				{
+					"filename": "Kiara_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 96,
+						"h": 142
+					},
+					"frame": {
+						"x": 4,
+						"y": 1741,
+						"w": 96,
+						"h": 142
+					}
+				},
+				{
+					"filename": "Kiara_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 19,
+						"w": 108,
+						"h": 140
+					},
+					"frame": {
+						"x": 4,
+						"y": 1891,
+						"w": 108,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 19,
+						"w": 108,
+						"h": 140
+					},
+					"frame": {
+						"x": 120,
+						"y": 1891,
+						"w": 108,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 96,
+						"h": 140
+					},
+					"frame": {
+						"x": 236,
+						"y": 1891,
+						"w": 96,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 96,
+						"h": 140
+					},
+					"frame": {
+						"x": 108,
+						"y": 1591,
+						"w": 96,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 96,
+						"h": 140
+					},
+					"frame": {
+						"x": 117,
+						"y": 1440,
+						"w": 96,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 96,
+						"h": 140
+					},
+					"frame": {
+						"x": 108,
+						"y": 1739,
+						"w": 96,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 96,
+						"h": 140
+					},
+					"frame": {
+						"x": 212,
+						"y": 1588,
+						"w": 96,
+						"h": 140
+					}
+				},
+				{
+					"filename": "Kiara_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 21,
+						"w": 111,
+						"h": 139
+					},
+					"frame": {
+						"x": 221,
+						"y": 1440,
+						"w": 111,
+						"h": 139
+					}
+				},
+				{
+					"filename": "Kiara_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 21,
+						"w": 96,
+						"h": 138
+					},
+					"frame": {
+						"x": 212,
+						"y": 1736,
+						"w": 96,
+						"h": 138
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

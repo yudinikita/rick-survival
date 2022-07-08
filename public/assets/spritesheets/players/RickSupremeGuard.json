@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickSupremeGuard",
+			"format": "RGBA8888",
+			"size": {
+				"w": 520,
+				"h": 1945
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickSupremeGuard_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 392,
+						"h": 729
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 392,
+						"h": 729
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 463,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 462,
+						"h": 708
+					},
+					"frame": {
+						"x": 4,
+						"y": 741,
+						"w": 462,
+						"h": 708
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 122,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1457,
+						"w": 122,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 122,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1621,
+						"w": 122,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 107,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1785,
+						"w": 107,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 105,
+						"h": 156
+					},
+					"frame": {
+						"x": 119,
+						"y": 1785,
+						"w": 105,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 134,
+						"y": 1457,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 134,
+						"y": 1620,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 106,
+						"h": 154
+					},
+					"frame": {
+						"x": 232,
+						"y": 1783,
+						"w": 106,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 106,
+						"h": 154
+					},
+					"frame": {
+						"x": 346,
+						"y": 1783,
+						"w": 106,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 264,
+						"y": 1457,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 264,
+						"y": 1618,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 394,
+						"y": 1457,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "RickSupremeGuard_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 394,
+						"y": 1617,
+						"w": 122,
+						"h": 152
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

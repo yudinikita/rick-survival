@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickMurderPatrol",
+			"format": "RGBA8888",
+			"size": {
+				"w": 456,
+				"h": 1994
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickMurderPatrol_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 443,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 29,
+						"w": 404,
+						"h": 701
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 404,
+						"h": 701
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 469,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 448,
+						"h": 677
+					},
+					"frame": {
+						"x": 4,
+						"y": 713,
+						"w": 448,
+						"h": 677
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 15,
+						"w": 82,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1398,
+						"w": 82,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 15,
+						"w": 82,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1549,
+						"w": 82,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 17,
+						"w": 82,
+						"h": 142
+					},
+					"frame": {
+						"x": 4,
+						"y": 1700,
+						"w": 82,
+						"h": 142
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 17,
+						"w": 82,
+						"h": 140
+					},
+					"frame": {
+						"x": 4,
+						"y": 1850,
+						"w": 82,
+						"h": 140
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 18,
+						"w": 82,
+						"h": 140
+					},
+					"frame": {
+						"x": 94,
+						"y": 1398,
+						"w": 82,
+						"h": 140
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 17,
+						"w": 82,
+						"h": 140
+					},
+					"frame": {
+						"x": 94,
+						"y": 1546,
+						"w": 82,
+						"h": 140
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 18,
+						"w": 82,
+						"h": 140
+					},
+					"frame": {
+						"x": 94,
+						"y": 1694,
+						"w": 82,
+						"h": 140
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 18,
+						"w": 82,
+						"h": 140
+					},
+					"frame": {
+						"x": 94,
+						"y": 1842,
+						"w": 82,
+						"h": 140
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 24,
+						"w": 80,
+						"h": 137
+					},
+					"frame": {
+						"x": 184,
+						"y": 1398,
+						"w": 80,
+						"h": 137
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 25,
+						"w": 80,
+						"h": 134
+					},
+					"frame": {
+						"x": 184,
+						"y": 1543,
+						"w": 80,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 26,
+						"w": 80,
+						"h": 133
+					},
+					"frame": {
+						"x": 184,
+						"y": 1685,
+						"w": 80,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RickMurderPatrol_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 26,
+						"w": 80,
+						"h": 133
+					},
+					"frame": {
+						"x": 184,
+						"y": 1826,
+						"w": 80,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

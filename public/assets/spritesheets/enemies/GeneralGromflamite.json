@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "GeneralGromflamite",
+			"format": "RGBA8888",
+			"size": {
+				"w": 696,
+				"h": 1914
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "GeneralGromflamite_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 577,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 558,
+						"h": 713
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 558,
+						"h": 713
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 758,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 688,
+						"h": 701
+					},
+					"frame": {
+						"x": 4,
+						"y": 725,
+						"w": 688,
+						"h": 701
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 8,
+						"w": 92,
+						"h": 154
+					},
+					"frame": {
+						"x": 4,
+						"y": 1434,
+						"w": 92,
+						"h": 154
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 9,
+						"w": 92,
+						"h": 153
+					},
+					"frame": {
+						"x": 4,
+						"y": 1596,
+						"w": 92,
+						"h": 153
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 9,
+						"w": 92,
+						"h": 153
+					},
+					"frame": {
+						"x": 4,
+						"y": 1757,
+						"w": 92,
+						"h": 153
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 10,
+						"w": 91,
+						"h": 152
+					},
+					"frame": {
+						"x": 104,
+						"y": 1434,
+						"w": 91,
+						"h": 152
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 92,
+						"h": 151
+					},
+					"frame": {
+						"x": 104,
+						"y": 1594,
+						"w": 92,
+						"h": 151
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 10,
+						"w": 92,
+						"h": 151
+					},
+					"frame": {
+						"x": 203,
+						"y": 1434,
+						"w": 92,
+						"h": 151
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 95,
+						"h": 150
+					},
+					"frame": {
+						"x": 104,
+						"y": 1753,
+						"w": 95,
+						"h": 150
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 10,
+						"w": 93,
+						"h": 150
+					},
+					"frame": {
+						"x": 204,
+						"y": 1593,
+						"w": 93,
+						"h": 150
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 10,
+						"w": 93,
+						"h": 150
+					},
+					"frame": {
+						"x": 303,
+						"y": 1434,
+						"w": 93,
+						"h": 150
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 13,
+						"w": 92,
+						"h": 149
+					},
+					"frame": {
+						"x": 207,
+						"y": 1751,
+						"w": 92,
+						"h": 149
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 13,
+						"w": 92,
+						"h": 149
+					},
+					"frame": {
+						"x": 305,
+						"y": 1592,
+						"w": 92,
+						"h": 149
+					}
+				},
+				{
+					"filename": "GeneralGromflamite_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 16,
+						"w": 92,
+						"h": 146
+					},
+					"frame": {
+						"x": 404,
+						"y": 1434,
+						"w": 92,
+						"h": 146
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

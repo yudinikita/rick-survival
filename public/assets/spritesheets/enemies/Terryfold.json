@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Terryfold",
+			"format": "RGBA8888",
+			"size": {
+				"w": 562,
+				"h": 1909
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Terryfold_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 568,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 53,
+						"w": 554,
+						"h": 677
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 554,
+						"h": 677
+					}
+				},
+				{
+					"filename": "Terryfold_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 567,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 73,
+						"w": 553,
+						"h": 635
+					},
+					"frame": {
+						"x": 4,
+						"y": 689,
+						"w": 553,
+						"h": 635
+					}
+				},
+				{
+					"filename": "Terryfold_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 47,
+						"w": 108,
+						"h": 110
+					},
+					"frame": {
+						"x": 4,
+						"y": 1332,
+						"w": 108,
+						"h": 110
+					}
+				},
+				{
+					"filename": "Terryfold_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 47,
+						"w": 106,
+						"h": 110
+					},
+					"frame": {
+						"x": 4,
+						"y": 1450,
+						"w": 106,
+						"h": 110
+					}
+				},
+				{
+					"filename": "Terryfold_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 48,
+						"w": 108,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 1568,
+						"w": 108,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Terryfold_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 48,
+						"w": 106,
+						"h": 109
+					},
+					"frame": {
+						"x": 118,
+						"y": 1450,
+						"w": 106,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Terryfold_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 49,
+						"w": 114,
+						"h": 107
+					},
+					"frame": {
+						"x": 120,
+						"y": 1332,
+						"w": 114,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Terryfold_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 49,
+						"w": 112,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1685,
+						"w": 112,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Terryfold_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 50,
+						"w": 108,
+						"h": 107
+					},
+					"frame": {
+						"x": 120,
+						"y": 1567,
+						"w": 108,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Terryfold_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 50,
+						"w": 115,
+						"h": 106
+					},
+					"frame": {
+						"x": 232,
+						"y": 1447,
+						"w": 115,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Terryfold_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 51,
+						"w": 109,
+						"h": 106
+					},
+					"frame": {
+						"x": 242,
+						"y": 1332,
+						"w": 109,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Terryfold_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 51,
+						"w": 117,
+						"h": 105
+					},
+					"frame": {
+						"x": 4,
+						"y": 1800,
+						"w": 117,
+						"h": 105
+					}
+				},
+				{
+					"filename": "Terryfold_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 52,
+						"w": 110,
+						"h": 105
+					},
+					"frame": {
+						"x": 124,
+						"y": 1682,
+						"w": 110,
+						"h": 105
+					}
+				},
+				{
+					"filename": "Terryfold_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 53,
+						"w": 111,
+						"h": 104
+					},
+					"frame": {
+						"x": 236,
+						"y": 1561,
+						"w": 111,
+						"h": 104
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

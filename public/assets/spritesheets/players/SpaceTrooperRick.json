@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "SpaceTrooperRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 488,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SpaceTrooperRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 388,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 379,
+						"h": 722
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 379,
+						"h": 722
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 379,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 10,
+						"w": 365,
+						"h": 698
+					},
+					"frame": {
+						"x": 4,
+						"y": 734,
+						"w": 365,
+						"h": 698
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 4,
+						"y": 1440,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 4,
+						"y": 1600,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 4,
+						"y": 1760,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 134,
+						"y": 1440,
+						"w": 122,
+						"h": 151
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 13,
+						"w": 107,
+						"h": 148
+					},
+					"frame": {
+						"x": 134,
+						"y": 1599,
+						"w": 107,
+						"h": 148
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 106,
+						"h": 146
+					},
+					"frame": {
+						"x": 134,
+						"y": 1755,
+						"w": 106,
+						"h": 146
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 106,
+						"h": 146
+					},
+					"frame": {
+						"x": 248,
+						"y": 1755,
+						"w": 106,
+						"h": 146
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 15,
+						"w": 104,
+						"h": 146
+					},
+					"frame": {
+						"x": 249,
+						"y": 1599,
+						"w": 104,
+						"h": 146
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 17,
+						"w": 122,
+						"h": 144
+					},
+					"frame": {
+						"x": 361,
+						"y": 1599,
+						"w": 122,
+						"h": 144
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 18,
+						"w": 122,
+						"h": 141
+					},
+					"frame": {
+						"x": 264,
+						"y": 1440,
+						"w": 122,
+						"h": 141
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 18,
+						"w": 122,
+						"h": 141
+					},
+					"frame": {
+						"x": 362,
+						"y": 1751,
+						"w": 122,
+						"h": 141
+					}
+				},
+				{
+					"filename": "SpaceTrooperRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 19,
+						"w": 122,
+						"h": 140
+					},
+					"frame": {
+						"x": 362,
+						"y": 1900,
+						"w": 122,
+						"h": 140
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

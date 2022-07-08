@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "CommonJS",
+    "strict": true,
+    "moduleResolution": "node",
+    "noEmit": false,
+    "allowJs": true,
+    "jsx": "preserve",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "outDir": "build",
+    "baseUrl": ".",
+    "typeRoots": [
+      "node_modules/@types",
+    ],
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

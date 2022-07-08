@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "progress-bg",
+            "frame": {
+                "w": 327,
+                "h": 41,
+                "x": 3,
+                "y": 3
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-speed",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 3,
+                "y": 47
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-reload",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 74,
+                "y": 47
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-damage",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 145,
+                "y": 47
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-bullet",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 216,
+                "y": 47
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-body",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 3,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-health",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 74,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "icon-regen",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 145,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-speed",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 216,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-reload",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 269,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-damage",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 3,
+                "y": 189
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-bullet",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 56,
+                "y": 189
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-body",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 109,
+                "y": 189
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-health",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 162,
+                "y": 189
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arrow-regen",
+            "frame": {
+                "w": 50,
+                "h": 35,
+                "x": 215,
+                "y": 189
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-speed",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 268,
+                "y": 156
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-reload",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 3,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-damage",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 54,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-bullet",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 105,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-body",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 156,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-regen",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 207,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "btn-health",
+            "frame": {
+                "w": 48,
+                "h": 48,
+                "x": 258,
+                "y": 227
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

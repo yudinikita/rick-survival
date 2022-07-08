@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickSmooth",
+			"format": "RGBA8888",
+			"size": {
+				"w": 718,
+				"h": 1336
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickSmooth_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 66,
+						"w": 346,
+						"h": 664
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 346,
+						"h": 664
+					}
+				},
+				{
+					"filename": "RickSmooth_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 445,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 52,
+						"w": 438,
+						"h": 656
+					},
+					"frame": {
+						"x": 4,
+						"y": 676,
+						"w": 438,
+						"h": 656
+					}
+				},
+				{
+					"filename": "RickSmooth_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 24,
+						"w": 78,
+						"h": 136
+					},
+					"frame": {
+						"x": 358,
+						"y": 4,
+						"w": 78,
+						"h": 136
+					}
+				},
+				{
+					"filename": "RickSmooth_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 24,
+						"w": 78,
+						"h": 135
+					},
+					"frame": {
+						"x": 358,
+						"y": 148,
+						"w": 78,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RickSmooth_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 78,
+						"h": 134
+					},
+					"frame": {
+						"x": 358,
+						"y": 291,
+						"w": 78,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RickSmooth_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 26,
+						"w": 78,
+						"h": 134
+					},
+					"frame": {
+						"x": 358,
+						"y": 433,
+						"w": 78,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RickSmooth_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 29,
+						"w": 102,
+						"h": 133
+					},
+					"frame": {
+						"x": 444,
+						"y": 4,
+						"w": 102,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RickSmooth_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 76,
+						"h": 133
+					},
+					"frame": {
+						"x": 444,
+						"y": 145,
+						"w": 76,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RickSmooth_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 28,
+						"w": 76,
+						"h": 132
+					},
+					"frame": {
+						"x": 444,
+						"y": 286,
+						"w": 76,
+						"h": 132
+					}
+				},
+				{
+					"filename": "RickSmooth_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 30,
+						"w": 101,
+						"h": 130
+					},
+					"frame": {
+						"x": 444,
+						"y": 426,
+						"w": 101,
+						"h": 130
+					}
+				},
+				{
+					"filename": "RickSmooth_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 76,
+						"h": 130
+					},
+					"frame": {
+						"x": 528,
+						"y": 145,
+						"w": 76,
+						"h": 130
+					}
+				},
+				{
+					"filename": "RickSmooth_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 29,
+						"w": 76,
+						"h": 130
+					},
+					"frame": {
+						"x": 554,
+						"y": 4,
+						"w": 76,
+						"h": 130
+					}
+				},
+				{
+					"filename": "RickSmooth_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 102,
+						"h": 129
+					},
+					"frame": {
+						"x": 528,
+						"y": 283,
+						"w": 102,
+						"h": 129
+					}
+				},
+				{
+					"filename": "RickSmooth_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 102,
+						"h": 129
+					},
+					"frame": {
+						"x": 612,
+						"y": 142,
+						"w": 102,
+						"h": 129
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

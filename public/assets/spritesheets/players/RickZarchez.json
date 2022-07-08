@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickZarchez",
+			"format": "RGBA8888",
+			"size": {
+				"w": 543,
+				"h": 1996
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickZarchez_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 587,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 56,
+						"w": 438,
+						"h": 674
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 438,
+						"h": 674
+					}
+				},
+				{
+					"filename": "RickZarchez_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 68,
+						"w": 440,
+						"h": 640
+					},
+					"frame": {
+						"x": 4,
+						"y": 686,
+						"w": 440,
+						"h": 640
+					}
+				},
+				{
+					"filename": "RickZarchez_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 27,
+						"w": 89,
+						"h": 135
+					},
+					"frame": {
+						"x": 450,
+						"y": 4,
+						"w": 89,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RickZarchez_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 27,
+						"w": 87,
+						"h": 135
+					},
+					"frame": {
+						"x": 450,
+						"y": 147,
+						"w": 87,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RickZarchez_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 27,
+						"w": 87,
+						"h": 135
+					},
+					"frame": {
+						"x": 450,
+						"y": 290,
+						"w": 87,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RickZarchez_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 27,
+						"w": 87,
+						"h": 135
+					},
+					"frame": {
+						"x": 450,
+						"y": 433,
+						"w": 87,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RickZarchez_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 34,
+						"w": 91,
+						"h": 126
+					},
+					"frame": {
+						"x": 4,
+						"y": 1334,
+						"w": 91,
+						"h": 126
+					}
+				},
+				{
+					"filename": "RickZarchez_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 35,
+						"w": 92,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1468,
+						"w": 92,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 35,
+						"w": 92,
+						"h": 125
+					},
+					"frame": {
+						"x": 103,
+						"y": 1334,
+						"w": 92,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 92,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1601,
+						"w": 92,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 92,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1734,
+						"w": 92,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 35,
+						"w": 91,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1867,
+						"w": 91,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 91,
+						"h": 125
+					},
+					"frame": {
+						"x": 103,
+						"y": 1867,
+						"w": 91,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RickZarchez_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 91,
+						"h": 124
+					},
+					"frame": {
+						"x": 104,
+						"y": 1467,
+						"w": 91,
+						"h": 124
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

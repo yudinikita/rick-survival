@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "PickleRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 329,
+				"h": 2002
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "PickleRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 48,
+						"w": 239,
+						"h": 682
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 239,
+						"h": 682
+					}
+				},
+				{
+					"filename": "PickleRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 392,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 44,
+						"w": 321,
+						"h": 664
+					},
+					"frame": {
+						"x": 4,
+						"y": 694,
+						"w": 321,
+						"h": 664
+					}
+				},
+				{
+					"filename": "PickleRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 39,
+						"w": 66,
+						"h": 120
+					},
+					"frame": {
+						"x": 4,
+						"y": 1366,
+						"w": 66,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 35,
+						"w": 66,
+						"h": 120
+					},
+					"frame": {
+						"x": 4,
+						"y": 1494,
+						"w": 66,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 39,
+						"w": 65,
+						"h": 120
+					},
+					"frame": {
+						"x": 4,
+						"y": 1622,
+						"w": 65,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 35,
+						"w": 65,
+						"h": 120
+					},
+					"frame": {
+						"x": 4,
+						"y": 1750,
+						"w": 65,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 32,
+						"w": 64,
+						"h": 120
+					},
+					"frame": {
+						"x": 4,
+						"y": 1878,
+						"w": 64,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 32,
+						"w": 63,
+						"h": 120
+					},
+					"frame": {
+						"x": 76,
+						"y": 1878,
+						"w": 63,
+						"h": 120
+					}
+				},
+				{
+					"filename": "PickleRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 42,
+						"w": 68,
+						"h": 118
+					},
+					"frame": {
+						"x": 147,
+						"y": 1878,
+						"w": 68,
+						"h": 118
+					}
+				},
+				{
+					"filename": "PickleRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 38,
+						"w": 68,
+						"h": 118
+					},
+					"frame": {
+						"x": 223,
+						"y": 1878,
+						"w": 68,
+						"h": 118
+					}
+				},
+				{
+					"filename": "PickleRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 41,
+						"w": 68,
+						"h": 118
+					},
+					"frame": {
+						"x": 77,
+						"y": 1622,
+						"w": 68,
+						"h": 118
+					}
+				},
+				{
+					"filename": "PickleRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 35,
+						"w": 66,
+						"h": 118
+					},
+					"frame": {
+						"x": 77,
+						"y": 1748,
+						"w": 66,
+						"h": 118
+					}
+				},
+				{
+					"filename": "PickleRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 42,
+						"w": 69,
+						"h": 117
+					},
+					"frame": {
+						"x": 151,
+						"y": 1748,
+						"w": 69,
+						"h": 117
+					}
+				},
+				{
+					"filename": "PickleRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 44,
+						"w": 70,
+						"h": 116
+					},
+					"frame": {
+						"x": 228,
+						"y": 1748,
+						"w": 70,
+						"h": 116
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

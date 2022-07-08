@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Concerto",
+			"format": "RGBA8888",
+			"size": {
+				"w": 489,
+				"h": 1983
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Concerto_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 503,
+						"h": 761
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 443,
+						"h": 757
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 443,
+						"h": 757
+					}
+				},
+				{
+					"filename": "Concerto_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 508,
+						"h": 765
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 12,
+						"w": 481,
+						"h": 753
+					},
+					"frame": {
+						"x": 4,
+						"y": 769,
+						"w": 481,
+						"h": 753
+					}
+				},
+				{
+					"filename": "Concerto_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 15,
+						"w": 88,
+						"h": 145
+					},
+					"frame": {
+						"x": 4,
+						"y": 1530,
+						"w": 88,
+						"h": 145
+					}
+				},
+				{
+					"filename": "Concerto_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 15,
+						"w": 88,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1683,
+						"w": 88,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Concerto_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 15,
+						"w": 88,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1835,
+						"w": 88,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Concerto_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 17,
+						"w": 87,
+						"h": 144
+					},
+					"frame": {
+						"x": 100,
+						"y": 1530,
+						"w": 87,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Concerto_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 24,
+						"w": 92,
+						"h": 137
+					},
+					"frame": {
+						"x": 100,
+						"y": 1682,
+						"w": 92,
+						"h": 137
+					}
+				},
+				{
+					"filename": "Concerto_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 23,
+						"w": 91,
+						"h": 136
+					},
+					"frame": {
+						"x": 195,
+						"y": 1530,
+						"w": 91,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Concerto_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 24,
+						"w": 92,
+						"h": 135
+					},
+					"frame": {
+						"x": 100,
+						"y": 1827,
+						"w": 92,
+						"h": 135
+					}
+				},
+				{
+					"filename": "Concerto_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 25,
+						"w": 91,
+						"h": 134
+					},
+					"frame": {
+						"x": 200,
+						"y": 1674,
+						"w": 91,
+						"h": 134
+					}
+				},
+				{
+					"filename": "Concerto_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 92,
+						"h": 133
+					},
+					"frame": {
+						"x": 294,
+						"y": 1530,
+						"w": 92,
+						"h": 133
+					}
+				},
+				{
+					"filename": "Concerto_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 92,
+						"h": 133
+					},
+					"frame": {
+						"x": 200,
+						"y": 1816,
+						"w": 92,
+						"h": 133
+					}
+				},
+				{
+					"filename": "Concerto_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 91,
+						"h": 133
+					},
+					"frame": {
+						"x": 299,
+						"y": 1671,
+						"w": 91,
+						"h": 133
+					}
+				},
+				{
+					"filename": "Concerto_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 91,
+						"h": 133
+					},
+					"frame": {
+						"x": 394,
+						"y": 1530,
+						"w": 91,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

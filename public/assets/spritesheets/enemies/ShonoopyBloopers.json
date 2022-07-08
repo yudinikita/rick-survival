@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "ShonoopyBloopers",
+			"format": "RGBA8888",
+			"size": {
+				"w": 494,
+				"h": 1925
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ShonoopyBloopers_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 450,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 41,
+						"w": 420,
+						"h": 689
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 420,
+						"h": 689
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 509,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 33,
+						"w": 486,
+						"h": 675
+					},
+					"frame": {
+						"x": 4,
+						"y": 701,
+						"w": 486,
+						"h": 675
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 32,
+						"w": 94,
+						"h": 130
+					},
+					"frame": {
+						"x": 4,
+						"y": 1384,
+						"w": 94,
+						"h": 130
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 31,
+						"w": 88,
+						"h": 128
+					},
+					"frame": {
+						"x": 4,
+						"y": 1522,
+						"w": 88,
+						"h": 128
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 29,
+						"w": 88,
+						"h": 128
+					},
+					"frame": {
+						"x": 4,
+						"y": 1658,
+						"w": 88,
+						"h": 128
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 88,
+						"h": 127
+					},
+					"frame": {
+						"x": 4,
+						"y": 1794,
+						"w": 88,
+						"h": 127
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 88,
+						"h": 127
+					},
+					"frame": {
+						"x": 100,
+						"y": 1522,
+						"w": 88,
+						"h": 127
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 36,
+						"w": 88,
+						"h": 126
+					},
+					"frame": {
+						"x": 106,
+						"y": 1384,
+						"w": 88,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 88,
+						"h": 126
+					},
+					"frame": {
+						"x": 100,
+						"y": 1657,
+						"w": 88,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 88,
+						"h": 126
+					},
+					"frame": {
+						"x": 100,
+						"y": 1791,
+						"w": 88,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 34,
+						"w": 80,
+						"h": 126
+					},
+					"frame": {
+						"x": 196,
+						"y": 1518,
+						"w": 80,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 34,
+						"w": 80,
+						"h": 126
+					},
+					"frame": {
+						"x": 202,
+						"y": 1384,
+						"w": 80,
+						"h": 126
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 34,
+						"w": 88,
+						"h": 125
+					},
+					"frame": {
+						"x": 196,
+						"y": 1652,
+						"w": 88,
+						"h": 125
+					}
+				},
+				{
+					"filename": "ShonoopyBloopers_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 35,
+						"w": 88,
+						"h": 124
+					},
+					"frame": {
+						"x": 284,
+						"y": 1518,
+						"w": 88,
+						"h": 124
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Gobo",
+			"format": "RGBA8888",
+			"size": {
+				"w": 430,
+				"h": 1236
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Gobo_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 92,
+						"w": 220,
+						"h": 638
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 220,
+						"h": 638
+					}
+				},
+				{
+					"filename": "Gobo_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 126,
+						"w": 281,
+						"h": 582
+					},
+					"frame": {
+						"x": 4,
+						"y": 650,
+						"w": 281,
+						"h": 582
+					}
+				},
+				{
+					"filename": "Gobo_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 59,
+						"w": 66,
+						"h": 100
+					},
+					"frame": {
+						"x": 232,
+						"y": 4,
+						"w": 66,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Gobo_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 58,
+						"w": 66,
+						"h": 100
+					},
+					"frame": {
+						"x": 232,
+						"y": 112,
+						"w": 66,
+						"h": 100
+					}
+				},
+				{
+					"filename": "Gobo_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 60,
+						"w": 66,
+						"h": 99
+					},
+					"frame": {
+						"x": 232,
+						"y": 220,
+						"w": 66,
+						"h": 99
+					}
+				},
+				{
+					"filename": "Gobo_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 59,
+						"w": 66,
+						"h": 99
+					},
+					"frame": {
+						"x": 232,
+						"y": 327,
+						"w": 66,
+						"h": 99
+					}
+				},
+				{
+					"filename": "Gobo_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 63,
+						"w": 57,
+						"h": 98
+					},
+					"frame": {
+						"x": 232,
+						"y": 434,
+						"w": 57,
+						"h": 98
+					}
+				},
+				{
+					"filename": "Gobo_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 62,
+						"w": 66,
+						"h": 97
+					},
+					"frame": {
+						"x": 232,
+						"y": 540,
+						"w": 66,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 62,
+						"w": 66,
+						"h": 97
+					},
+					"frame": {
+						"x": 297,
+						"y": 434,
+						"w": 66,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 61,
+						"w": 66,
+						"h": 97
+					},
+					"frame": {
+						"x": 306,
+						"y": 4,
+						"w": 66,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 61,
+						"w": 66,
+						"h": 97
+					},
+					"frame": {
+						"x": 306,
+						"y": 109,
+						"w": 66,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 63,
+						"w": 58,
+						"h": 97
+					},
+					"frame": {
+						"x": 306,
+						"y": 214,
+						"w": 58,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 63,
+						"w": 56,
+						"h": 97
+					},
+					"frame": {
+						"x": 306,
+						"y": 319,
+						"w": 56,
+						"h": 97
+					}
+				},
+				{
+					"filename": "Gobo_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 63,
+						"w": 56,
+						"h": 97
+					},
+					"frame": {
+						"x": 370,
+						"y": 319,
+						"w": 56,
+						"h": 97
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

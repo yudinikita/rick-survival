@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>Rick Survival</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self';">
+    <meta name="description" content="Survive and shoot at others while trying to keep your own alive!" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="prefetch" as="font" href="assets/font/Ubuntu-Bold.ttf" type="font/ttf" crossorigin="anonymous"/>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      html, body {
+        border: 0;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+
+      @font-face {
+        font-family: Ubuntu;
+        font-weight: 700;
+        src: url('assets/font/Ubuntu-Bold.ttf');
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>Please enable javascript to continue using this application.</noscript>
+    <div id='game-wrapper'></div>
+    <script type="module" src="dist/index.js"></script>
+  </body>
+</html>

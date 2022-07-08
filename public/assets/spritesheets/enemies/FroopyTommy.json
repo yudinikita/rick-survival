@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "FroopyTommy",
+			"format": "RGBA8888",
+			"size": {
+				"w": 618,
+				"h": 2041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FroopyTommy_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 460,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 53,
+						"w": 424,
+						"h": 677
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 424,
+						"h": 677
+					}
+				},
+				{
+					"filename": "FroopyTommy_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 462,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 84,
+						"w": 436,
+						"h": 624
+					},
+					"frame": {
+						"x": 4,
+						"y": 689,
+						"w": 436,
+						"h": 624
+					}
+				},
+				{
+					"filename": "FroopyTommy_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 37,
+						"w": 84,
+						"h": 122
+					},
+					"frame": {
+						"x": 436,
+						"y": 4,
+						"w": 84,
+						"h": 122
+					}
+				},
+				{
+					"filename": "FroopyTommy_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 86,
+						"h": 121
+					},
+					"frame": {
+						"x": 436,
+						"y": 134,
+						"w": 86,
+						"h": 121
+					}
+				},
+				{
+					"filename": "FroopyTommy_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 86,
+						"h": 121
+					},
+					"frame": {
+						"x": 528,
+						"y": 4,
+						"w": 86,
+						"h": 121
+					}
+				},
+				{
+					"filename": "FroopyTommy_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 40,
+						"w": 84,
+						"h": 121
+					},
+					"frame": {
+						"x": 436,
+						"y": 263,
+						"w": 84,
+						"h": 121
+					}
+				},
+				{
+					"filename": "FroopyTommy_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 40,
+						"w": 84,
+						"h": 121
+					},
+					"frame": {
+						"x": 436,
+						"y": 392,
+						"w": 84,
+						"h": 121
+					}
+				},
+				{
+					"filename": "FroopyTommy_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 38,
+						"w": 84,
+						"h": 121
+					},
+					"frame": {
+						"x": 436,
+						"y": 521,
+						"w": 84,
+						"h": 121
+					}
+				},
+				{
+					"filename": "FroopyTommy_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 38,
+						"w": 86,
+						"h": 119
+					},
+					"frame": {
+						"x": 4,
+						"y": 1321,
+						"w": 86,
+						"h": 119
+					}
+				},
+				{
+					"filename": "FroopyTommy_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 38,
+						"w": 86,
+						"h": 119
+					},
+					"frame": {
+						"x": 4,
+						"y": 1448,
+						"w": 86,
+						"h": 119
+					}
+				},
+				{
+					"filename": "FroopyTommy_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 49,
+						"w": 71,
+						"h": 110
+					},
+					"frame": {
+						"x": 4,
+						"y": 1575,
+						"w": 71,
+						"h": 110
+					}
+				},
+				{
+					"filename": "FroopyTommy_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 49,
+						"w": 71,
+						"h": 110
+					},
+					"frame": {
+						"x": 4,
+						"y": 1693,
+						"w": 71,
+						"h": 110
+					}
+				},
+				{
+					"filename": "FroopyTommy_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 49,
+						"w": 72,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 1811,
+						"w": 72,
+						"h": 109
+					}
+				},
+				{
+					"filename": "FroopyTommy_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 50,
+						"w": 70,
+						"h": 109
+					},
+					"frame": {
+						"x": 4,
+						"y": 1928,
+						"w": 70,
+						"h": 109
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

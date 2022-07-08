@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Schleemypants",
+			"format": "RGBA8888",
+			"size": {
+				"w": 550,
+				"h": 1593
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Schleemypants_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 386,
+						"h": 641
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 16,
+						"w": 336,
+						"h": 625
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 336,
+						"h": 625
+					}
+				},
+				{
+					"filename": "Schleemypants_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 715
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 63,
+						"w": 355,
+						"h": 607
+					},
+					"frame": {
+						"x": 4,
+						"y": 637,
+						"w": 355,
+						"h": 607
+					}
+				},
+				{
+					"filename": "Schleemypants_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 39,
+						"w": 90,
+						"h": 109
+					},
+					"frame": {
+						"x": 348,
+						"y": 4,
+						"w": 90,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Schleemypants_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 42,
+						"w": 90,
+						"h": 109
+					},
+					"frame": {
+						"x": 348,
+						"y": 121,
+						"w": 90,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Schleemypants_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 45,
+						"w": 90,
+						"h": 109
+					},
+					"frame": {
+						"x": 348,
+						"y": 238,
+						"w": 90,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Schleemypants_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 42,
+						"w": 90,
+						"h": 108
+					},
+					"frame": {
+						"x": 348,
+						"y": 355,
+						"w": 90,
+						"h": 108
+					}
+				},
+				{
+					"filename": "Schleemypants_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 36,
+						"w": 100,
+						"h": 107
+					},
+					"frame": {
+						"x": 348,
+						"y": 471,
+						"w": 100,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 42,
+						"w": 100,
+						"h": 107
+					},
+					"frame": {
+						"x": 446,
+						"y": 4,
+						"w": 100,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 39,
+						"w": 99,
+						"h": 107
+					},
+					"frame": {
+						"x": 446,
+						"y": 119,
+						"w": 99,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 39,
+						"w": 99,
+						"h": 107
+					},
+					"frame": {
+						"x": 446,
+						"y": 234,
+						"w": 99,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 42,
+						"w": 91,
+						"h": 107
+					},
+					"frame": {
+						"x": 446,
+						"y": 349,
+						"w": 91,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 38,
+						"w": 91,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1252,
+						"w": 91,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 42,
+						"w": 91,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1367,
+						"w": 91,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Schleemypants_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 46,
+						"w": 91,
+						"h": 107
+					},
+					"frame": {
+						"x": 4,
+						"y": 1482,
+						"w": 91,
+						"h": 107
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "AntsInMyEyesJohnson",
+			"format": "RGBA8888",
+			"size": {
+				"w": 454,
+				"h": 1960
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "AntsInMyEyesJohnson_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 46,
+						"w": 446,
+						"h": 684
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 446,
+						"h": 684
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 35,
+						"w": 427,
+						"h": 673
+					},
+					"frame": {
+						"x": 4,
+						"y": 696,
+						"w": 427,
+						"h": 673
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 16,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 4,
+						"y": 1377,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 16,
+						"w": 86,
+						"h": 139
+					},
+					"frame": {
+						"x": 4,
+						"y": 1524,
+						"w": 86,
+						"h": 139
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 19,
+						"w": 76,
+						"h": 139
+					},
+					"frame": {
+						"x": 4,
+						"y": 1671,
+						"w": 76,
+						"h": 139
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 21,
+						"w": 86,
+						"h": 138
+					},
+					"frame": {
+						"x": 4,
+						"y": 1818,
+						"w": 86,
+						"h": 138
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 21,
+						"w": 86,
+						"h": 138
+					},
+					"frame": {
+						"x": 88,
+						"y": 1671,
+						"w": 86,
+						"h": 138
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 20,
+						"w": 76,
+						"h": 138
+					},
+					"frame": {
+						"x": 98,
+						"y": 1817,
+						"w": 76,
+						"h": 138
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 18,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 98,
+						"y": 1377,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 18,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 98,
+						"y": 1522,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 23,
+						"w": 86,
+						"h": 136
+					},
+					"frame": {
+						"x": 182,
+						"y": 1667,
+						"w": 86,
+						"h": 136
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 23,
+						"w": 86,
+						"h": 136
+					},
+					"frame": {
+						"x": 182,
+						"y": 1811,
+						"w": 86,
+						"h": 136
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 22,
+						"w": 76,
+						"h": 135
+					},
+					"frame": {
+						"x": 192,
+						"y": 1377,
+						"w": 76,
+						"h": 135
+					}
+				},
+				{
+					"filename": "AntsInMyEyesJohnson_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 22,
+						"w": 76,
+						"h": 135
+					},
+					"frame": {
+						"x": 192,
+						"y": 1520,
+						"w": 76,
+						"h": 135
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

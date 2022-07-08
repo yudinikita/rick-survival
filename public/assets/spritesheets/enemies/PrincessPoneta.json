@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "PrincessPoneta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 416,
+				"h": 1995
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "PrincessPoneta_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 451,
+						"h": 731
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 11,
+						"w": 345,
+						"h": 720
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 345,
+						"h": 720
+					}
+				},
+				{
+					"filename": "PrincessPoneta_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 552,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 11,
+						"w": 408,
+						"h": 697
+					},
+					"frame": {
+						"x": 4,
+						"y": 732,
+						"w": 408,
+						"h": 697
+					}
+				},
+				{
+					"filename": "PrincessPoneta_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 75,
+						"h": 133
+					},
+					"frame": {
+						"x": 4,
+						"y": 1437,
+						"w": 75,
+						"h": 133
+					}
+				},
+				{
+					"filename": "PrincessPoneta_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 75,
+						"h": 133
+					},
+					"frame": {
+						"x": 4,
+						"y": 1578,
+						"w": 75,
+						"h": 133
+					}
+				},
+				{
+					"filename": "PrincessPoneta_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 76,
+						"h": 132
+					},
+					"frame": {
+						"x": 4,
+						"y": 1719,
+						"w": 76,
+						"h": 132
+					}
+				},
+				{
+					"filename": "PrincessPoneta_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 76,
+						"h": 132
+					},
+					"frame": {
+						"x": 4,
+						"y": 1859,
+						"w": 76,
+						"h": 132
+					}
+				},
+				{
+					"filename": "PrincessPoneta_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 26,
+						"w": 69,
+						"h": 132
+					},
+					"frame": {
+						"x": 87,
+						"y": 1437,
+						"w": 69,
+						"h": 132
+					}
+				},
+				{
+					"filename": "PrincessPoneta_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 26,
+						"w": 69,
+						"h": 132
+					},
+					"frame": {
+						"x": 87,
+						"y": 1577,
+						"w": 69,
+						"h": 132
+					}
+				},
+				{
+					"filename": "PrincessPoneta_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 75,
+						"h": 131
+					},
+					"frame": {
+						"x": 88,
+						"y": 1717,
+						"w": 75,
+						"h": 131
+					}
+				},
+				{
+					"filename": "PrincessPoneta_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 75,
+						"h": 131
+					},
+					"frame": {
+						"x": 88,
+						"y": 1856,
+						"w": 75,
+						"h": 131
+					}
+				},
+				{
+					"filename": "PrincessPoneta_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 76,
+						"h": 129
+					},
+					"frame": {
+						"x": 164,
+						"y": 1437,
+						"w": 76,
+						"h": 129
+					}
+				},
+				{
+					"filename": "PrincessPoneta_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 76,
+						"h": 129
+					},
+					"frame": {
+						"x": 164,
+						"y": 1574,
+						"w": 76,
+						"h": 129
+					}
+				},
+				{
+					"filename": "PrincessPoneta_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 29,
+						"w": 69,
+						"h": 129
+					},
+					"frame": {
+						"x": 171,
+						"y": 1711,
+						"w": 69,
+						"h": 129
+					}
+				},
+				{
+					"filename": "PrincessPoneta_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 29,
+						"w": 69,
+						"h": 129
+					},
+					"frame": {
+						"x": 171,
+						"y": 1848,
+						"w": 69,
+						"h": 129
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

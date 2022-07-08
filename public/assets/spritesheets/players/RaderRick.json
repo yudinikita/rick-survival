@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RaderRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 511,
+				"h": 1816
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RaderRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 80,
+						"w": 336,
+						"h": 650
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 336,
+						"h": 650
+					}
+				},
+				{
+					"filename": "RaderRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 90,
+						"w": 431,
+						"h": 618
+					},
+					"frame": {
+						"x": 4,
+						"y": 662,
+						"w": 431,
+						"h": 618
+					}
+				},
+				{
+					"filename": "RaderRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 24,
+						"w": 75,
+						"h": 135
+					},
+					"frame": {
+						"x": 348,
+						"y": 4,
+						"w": 75,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RaderRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 26,
+						"w": 75,
+						"h": 134
+					},
+					"frame": {
+						"x": 348,
+						"y": 147,
+						"w": 75,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RaderRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 26,
+						"w": 75,
+						"h": 134
+					},
+					"frame": {
+						"x": 348,
+						"y": 289,
+						"w": 75,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RaderRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 28,
+						"w": 75,
+						"h": 133
+					},
+					"frame": {
+						"x": 348,
+						"y": 431,
+						"w": 75,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RaderRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 31,
+						"w": 76,
+						"h": 128
+					},
+					"frame": {
+						"x": 431,
+						"y": 4,
+						"w": 76,
+						"h": 128
+					}
+				},
+				{
+					"filename": "RaderRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 76,
+						"h": 126
+					},
+					"frame": {
+						"x": 431,
+						"y": 140,
+						"w": 76,
+						"h": 126
+					}
+				},
+				{
+					"filename": "RaderRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 76,
+						"h": 126
+					},
+					"frame": {
+						"x": 431,
+						"y": 274,
+						"w": 76,
+						"h": 126
+					}
+				},
+				{
+					"filename": "RaderRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 76,
+						"h": 125
+					},
+					"frame": {
+						"x": 431,
+						"y": 408,
+						"w": 76,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RaderRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 35,
+						"w": 76,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1288,
+						"w": 76,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RaderRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 76,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1421,
+						"w": 76,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RaderRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 33,
+						"w": 76,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1554,
+						"w": 76,
+						"h": 125
+					}
+				},
+				{
+					"filename": "RaderRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 35,
+						"w": 76,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1687,
+						"w": 76,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

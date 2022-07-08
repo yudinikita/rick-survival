@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickBeefcake",
+			"format": "RGBA8888",
+			"size": {
+				"w": 747,
+				"h": 1953
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickBeefcake_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 752,
+						"h": 725
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 739,
+						"h": 716
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 739,
+						"h": 716
+					}
+				},
+				{
+					"filename": "RickBeefcake_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 547,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 538,
+						"h": 730
+					},
+					"frame": {
+						"x": 4,
+						"y": 728,
+						"w": 538,
+						"h": 730
+					}
+				},
+				{
+					"filename": "RickBeefcake_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 3,
+						"w": 105,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1466,
+						"w": 105,
+						"h": 157
+					}
+				},
+				{
+					"filename": "RickBeefcake_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 5,
+						"w": 107,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1631,
+						"w": 107,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickBeefcake_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 117,
+						"y": 1466,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickBeefcake_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 4,
+						"y": 1795,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickBeefcake_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 106,
+						"h": 154
+					},
+					"frame": {
+						"x": 119,
+						"y": 1629,
+						"w": 106,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickBeefcake_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 106,
+						"h": 154
+					},
+					"frame": {
+						"x": 134,
+						"y": 1791,
+						"w": 106,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickBeefcake_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 233,
+						"y": 1629,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickBeefcake_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 247,
+						"y": 1466,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickBeefcake_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 363,
+						"y": 1627,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickBeefcake_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 377,
+						"y": 1466,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickBeefcake_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 248,
+						"y": 1790,
+						"w": 122,
+						"h": 151
+					}
+				},
+				{
+					"filename": "RickBeefcake_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 378,
+						"y": 1788,
+						"w": 122,
+						"h": 151
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

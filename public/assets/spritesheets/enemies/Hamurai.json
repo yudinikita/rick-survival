@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Hamurai",
+			"format": "RGBA8888",
+			"size": {
+				"w": 531,
+				"h": 1968
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hamurai_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 637,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 29,
+						"w": 490,
+						"h": 771
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 490,
+						"h": 771
+					}
+				},
+				{
+					"filename": "Hamurai_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 21,
+						"w": 523,
+						"h": 687
+					},
+					"frame": {
+						"x": 4,
+						"y": 783,
+						"w": 523,
+						"h": 687
+					}
+				},
+				{
+					"filename": "Hamurai_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 5,
+						"w": 86,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1478,
+						"w": 86,
+						"h": 157
+					}
+				},
+				{
+					"filename": "Hamurai_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 5,
+						"w": 86,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1643,
+						"w": 86,
+						"h": 157
+					}
+				},
+				{
+					"filename": "Hamurai_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 92,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1808,
+						"w": 92,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Hamurai_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 92,
+						"h": 156
+					},
+					"frame": {
+						"x": 104,
+						"y": 1808,
+						"w": 92,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Hamurai_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 90,
+						"h": 156
+					},
+					"frame": {
+						"x": 98,
+						"y": 1478,
+						"w": 90,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Hamurai_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 90,
+						"h": 156
+					},
+					"frame": {
+						"x": 98,
+						"y": 1642,
+						"w": 90,
+						"h": 156
+					}
+				},
+				{
+					"filename": "Hamurai_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 92,
+						"h": 154
+					},
+					"frame": {
+						"x": 196,
+						"y": 1478,
+						"w": 92,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Hamurai_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 6,
+						"w": 92,
+						"h": 154
+					},
+					"frame": {
+						"x": 196,
+						"y": 1640,
+						"w": 92,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Hamurai_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 5,
+						"w": 90,
+						"h": 154
+					},
+					"frame": {
+						"x": 204,
+						"y": 1802,
+						"w": 90,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Hamurai_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 5,
+						"w": 90,
+						"h": 154
+					},
+					"frame": {
+						"x": 302,
+						"y": 1802,
+						"w": 90,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Hamurai_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 86,
+						"h": 153
+					},
+					"frame": {
+						"x": 296,
+						"y": 1478,
+						"w": 86,
+						"h": 153
+					}
+				},
+				{
+					"filename": "Hamurai_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 86,
+						"h": 153
+					},
+					"frame": {
+						"x": 296,
+						"y": 1639,
+						"w": 86,
+						"h": 153
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

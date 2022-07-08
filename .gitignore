@@ -1,0 +1,5 @@
+node_modules
+_build
+_tscbuild
+/electron/build/
+/electron/dist/

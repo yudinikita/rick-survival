@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Squanchy",
+			"format": "RGBA8888",
+			"size": {
+				"w": 397,
+				"h": 2030
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Squanchy_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 363,
+						"h": 750
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 8,
+						"w": 278,
+						"h": 730
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 278,
+						"h": 730
+					}
+				},
+				{
+					"filename": "Squanchy_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 19,
+						"w": 389,
+						"h": 676
+					},
+					"frame": {
+						"x": 4,
+						"y": 742,
+						"w": 389,
+						"h": 676
+					}
+				},
+				{
+					"filename": "Squanchy_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 96,
+						"h": 145
+					},
+					"frame": {
+						"x": 4,
+						"y": 1426,
+						"w": 96,
+						"h": 145
+					}
+				},
+				{
+					"filename": "Squanchy_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 12,
+						"w": 96,
+						"h": 145
+					},
+					"frame": {
+						"x": 4,
+						"y": 1579,
+						"w": 96,
+						"h": 145
+					}
+				},
+				{
+					"filename": "Squanchy_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 96,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1732,
+						"w": 96,
+						"h": 143
+					}
+				},
+				{
+					"filename": "Squanchy_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 96,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1883,
+						"w": 96,
+						"h": 143
+					}
+				},
+				{
+					"filename": "Squanchy_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 96,
+						"h": 133
+					},
+					"frame": {
+						"x": 108,
+						"y": 1426,
+						"w": 96,
+						"h": 133
+					}
+				},
+				{
+					"filename": "Squanchy_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 96,
+						"h": 133
+					},
+					"frame": {
+						"x": 108,
+						"y": 1567,
+						"w": 96,
+						"h": 133
+					}
+				},
+				{
+					"filename": "Squanchy_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 26,
+						"w": 70,
+						"h": 132
+					},
+					"frame": {
+						"x": 108,
+						"y": 1708,
+						"w": 70,
+						"h": 132
+					}
+				},
+				{
+					"filename": "Squanchy_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 26,
+						"w": 69,
+						"h": 132
+					},
+					"frame": {
+						"x": 108,
+						"y": 1848,
+						"w": 69,
+						"h": 132
+					}
+				},
+				{
+					"filename": "Squanchy_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 25,
+						"w": 96,
+						"h": 131
+					},
+					"frame": {
+						"x": 185,
+						"y": 1848,
+						"w": 96,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Squanchy_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 25,
+						"w": 96,
+						"h": 131
+					},
+					"frame": {
+						"x": 186,
+						"y": 1708,
+						"w": 96,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Squanchy_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 27,
+						"w": 70,
+						"h": 131
+					},
+					"frame": {
+						"x": 289,
+						"y": 1847,
+						"w": 70,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Squanchy_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 27,
+						"w": 70,
+						"h": 131
+					},
+					"frame": {
+						"x": 212,
+						"y": 1426,
+						"w": 70,
+						"h": 131
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

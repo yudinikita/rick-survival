@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickGreaser",
+			"format": "RGBA8888",
+			"size": {
+				"w": 377,
+				"h": 2037
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickGreaser_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 393,
+						"h": 745
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 9,
+						"w": 348,
+						"h": 736
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 348,
+						"h": 736
+					}
+				},
+				{
+					"filename": "RickGreaser_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 35,
+						"w": 369,
+						"h": 673
+					},
+					"frame": {
+						"x": 4,
+						"y": 748,
+						"w": 369,
+						"h": 673
+					}
+				},
+				{
+					"filename": "RickGreaser_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 81,
+						"h": 147
+					},
+					"frame": {
+						"x": 4,
+						"y": 1429,
+						"w": 81,
+						"h": 147
+					}
+				},
+				{
+					"filename": "RickGreaser_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 15,
+						"w": 82,
+						"h": 145
+					},
+					"frame": {
+						"x": 4,
+						"y": 1584,
+						"w": 82,
+						"h": 145
+					}
+				},
+				{
+					"filename": "RickGreaser_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 14,
+						"w": 82,
+						"h": 145
+					},
+					"frame": {
+						"x": 93,
+						"y": 1429,
+						"w": 82,
+						"h": 145
+					}
+				},
+				{
+					"filename": "RickGreaser_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 15,
+						"w": 82,
+						"h": 145
+					},
+					"frame": {
+						"x": 4,
+						"y": 1737,
+						"w": 82,
+						"h": 145
+					}
+				},
+				{
+					"filename": "RickGreaser_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 17,
+						"w": 76,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1890,
+						"w": 76,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RickGreaser_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 17,
+						"w": 76,
+						"h": 143
+					},
+					"frame": {
+						"x": 88,
+						"y": 1890,
+						"w": 76,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RickGreaser_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 17,
+						"w": 76,
+						"h": 142
+					},
+					"frame": {
+						"x": 94,
+						"y": 1582,
+						"w": 76,
+						"h": 142
+					}
+				},
+				{
+					"filename": "RickGreaser_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 18,
+						"w": 75,
+						"h": 142
+					},
+					"frame": {
+						"x": 94,
+						"y": 1732,
+						"w": 75,
+						"h": 142
+					}
+				},
+				{
+					"filename": "RickGreaser_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 76,
+						"h": 138
+					},
+					"frame": {
+						"x": 172,
+						"y": 1882,
+						"w": 76,
+						"h": 138
+					}
+				},
+				{
+					"filename": "RickGreaser_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 76,
+						"h": 137
+					},
+					"frame": {
+						"x": 177,
+						"y": 1732,
+						"w": 76,
+						"h": 137
+					}
+				},
+				{
+					"filename": "RickGreaser_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 76,
+						"h": 137
+					},
+					"frame": {
+						"x": 178,
+						"y": 1582,
+						"w": 76,
+						"h": 137
+					}
+				},
+				{
+					"filename": "RickGreaser_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 22,
+						"w": 76,
+						"h": 136
+					},
+					"frame": {
+						"x": 261,
+						"y": 1429,
+						"w": 76,
+						"h": 136
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

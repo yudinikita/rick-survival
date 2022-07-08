@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickVapourWave",
+			"format": "RGBA8888",
+			"size": {
+				"w": 618,
+				"h": 1935
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickVapourWave_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 402,
+						"h": 723
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 402,
+						"h": 723
+					}
+				},
+				{
+					"filename": "RickVapourWave_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 555,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 539,
+						"h": 705
+					},
+					"frame": {
+						"x": 4,
+						"y": 735,
+						"w": 539,
+						"h": 705
+					}
+				},
+				{
+					"filename": "RickVapourWave_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 1,
+						"w": 112,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1448,
+						"w": 112,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickVapourWave_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 110,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1612,
+						"w": 110,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickVapourWave_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 4,
+						"y": 1776,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickVapourWave_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 122,
+						"y": 1612,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickVapourWave_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 111,
+						"h": 154
+					},
+					"frame": {
+						"x": 124,
+						"y": 1448,
+						"w": 111,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickVapourWave_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 111,
+						"h": 154
+					},
+					"frame": {
+						"x": 243,
+						"y": 1448,
+						"w": 111,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickVapourWave_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 134,
+						"y": 1774,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickVapourWave_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 252,
+						"y": 1610,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickVapourWave_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 362,
+						"y": 1448,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickVapourWave_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 264,
+						"y": 1771,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickVapourWave_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 382,
+						"y": 1609,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickVapourWave_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 492,
+						"y": 1448,
+						"w": 122,
+						"h": 151
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

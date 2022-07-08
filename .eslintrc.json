@@ -1,0 +1,52 @@
+{
+  "root": true,
+  "env": {
+    "browser": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint", "unicorn", "import"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:unicorn/recommended",
+    "prettier"
+  ],
+  "rules": {
+    "semi": "off",
+    "quotes": [
+      "error", "single"
+    ],
+    "curly": 0,
+    "indent": ["error", 2, {
+      "SwitchCase": 1,
+      "ignoredNodes": ["ConditionalExpression"]
+    }],
+    "@typescript-eslint/no-unused-vars": 0,
+    "@typescript-eslint/ban-ts-comment": 0,
+    "@typescript-eslint/no-empty-function": 0,
+    "no-undef": 0,
+    "eol-last": [
+      "error", "always"
+    ],
+    "import/order": [
+      "warn",
+      {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "parent",
+          "sibling",
+          "index",
+          "object",
+          "type"
+        ]
+      }
+    ],
+    "import/extensions": "off",
+    "unicorn/filename-case": "off",
+    "unicorn/no-null": "off"
+  }
+}

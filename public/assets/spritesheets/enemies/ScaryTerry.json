@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "ScaryTerry",
+			"format": "RGBA8888",
+			"size": {
+				"w": 651,
+				"h": 1333
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ScaryTerry_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 446,
+						"h": 685
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 10,
+						"w": 362,
+						"h": 675
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 362,
+						"h": 675
+					}
+				},
+				{
+					"filename": "ScaryTerry_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 548,
+						"h": 650
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 8,
+						"w": 523,
+						"h": 642
+					},
+					"frame": {
+						"x": 4,
+						"y": 687,
+						"w": 523,
+						"h": 642
+					}
+				},
+				{
+					"filename": "ScaryTerry_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 34,
+						"w": 79,
+						"h": 125
+					},
+					"frame": {
+						"x": 374,
+						"y": 4,
+						"w": 79,
+						"h": 125
+					}
+				},
+				{
+					"filename": "ScaryTerry_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 79,
+						"h": 123
+					},
+					"frame": {
+						"x": 374,
+						"y": 137,
+						"w": 79,
+						"h": 123
+					}
+				},
+				{
+					"filename": "ScaryTerry_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 79,
+						"h": 123
+					},
+					"frame": {
+						"x": 374,
+						"y": 268,
+						"w": 79,
+						"h": 123
+					}
+				},
+				{
+					"filename": "ScaryTerry_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 35,
+						"w": 79,
+						"h": 123
+					},
+					"frame": {
+						"x": 374,
+						"y": 399,
+						"w": 79,
+						"h": 123
+					}
+				},
+				{
+					"filename": "ScaryTerry_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 42,
+						"w": 86,
+						"h": 119
+					},
+					"frame": {
+						"x": 374,
+						"y": 530,
+						"w": 86,
+						"h": 119
+					}
+				},
+				{
+					"filename": "ScaryTerry_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 41,
+						"w": 86,
+						"h": 119
+					},
+					"frame": {
+						"x": 468,
+						"y": 530,
+						"w": 86,
+						"h": 119
+					}
+				},
+				{
+					"filename": "ScaryTerry_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 39,
+						"w": 85,
+						"h": 119
+					},
+					"frame": {
+						"x": 562,
+						"y": 530,
+						"w": 85,
+						"h": 119
+					}
+				},
+				{
+					"filename": "ScaryTerry_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 40,
+						"w": 85,
+						"h": 118
+					},
+					"frame": {
+						"x": 461,
+						"y": 4,
+						"w": 85,
+						"h": 118
+					}
+				},
+				{
+					"filename": "ScaryTerry_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 42,
+						"w": 85,
+						"h": 116
+					},
+					"frame": {
+						"x": 461,
+						"y": 130,
+						"w": 85,
+						"h": 116
+					}
+				},
+				{
+					"filename": "ScaryTerry_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 42,
+						"w": 85,
+						"h": 116
+					},
+					"frame": {
+						"x": 461,
+						"y": 254,
+						"w": 85,
+						"h": 116
+					}
+				},
+				{
+					"filename": "ScaryTerry_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 44,
+						"w": 86,
+						"h": 114
+					},
+					"frame": {
+						"x": 461,
+						"y": 378,
+						"w": 86,
+						"h": 114
+					}
+				},
+				{
+					"filename": "ScaryTerry_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 44,
+						"w": 86,
+						"h": 114
+					},
+					"frame": {
+						"x": 555,
+						"y": 378,
+						"w": 86,
+						"h": 114
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

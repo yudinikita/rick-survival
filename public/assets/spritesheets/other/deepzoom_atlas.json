@@ -1,0 +1,372 @@
+{
+    "frames": [
+        {
+            "filename": "deepzoom0028",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0001",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0002",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0003",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0004",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 382
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0005",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 382
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0006",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 382
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0007",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 382
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0008",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 764
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0009",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 764
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0010",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 764
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0011",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 764
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0012",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 1146
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0013",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 1146
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0014",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 1146
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0015",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 1146
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0016",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 1528
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0017",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 1528
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0018",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 1528
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0019",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 1528
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0020",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 1910
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0021",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 1910
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0022",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 1910
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0023",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 1910
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0024",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 0,
+                "y": 2292
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0025",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 382,
+                "y": 2292
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0026",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 764,
+                "y": 2292
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "deepzoom0027",
+            "frame": {
+                "w": 382,
+                "h": 382,
+                "x": 1146,
+                "y": 2292
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

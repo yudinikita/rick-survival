@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "RickGuard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 893,
+				"h": 780
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickGuard_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 532,
+						"h": 741
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 532,
+						"h": 741
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 532,
+						"h": 741
+					}
+				},
+				{
+					"filename": "RickGuard_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 134,
+						"h": 153
+					},
+					"frame": {
+						"x": 535,
+						"y": 1,
+						"w": 134,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickGuard_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 134,
+						"h": 153
+					},
+					"frame": {
+						"x": 671,
+						"y": 1,
+						"w": 134,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickGuard_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 134,
+						"h": 153
+					},
+					"frame": {
+						"x": 535,
+						"y": 156,
+						"w": 134,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickGuard_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 144,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 2,
+						"w": 133,
+						"h": 151
+					},
+					"frame": {
+						"x": 671,
+						"y": 156,
+						"w": 133,
+						"h": 151
+					}
+				},
+				{
+					"filename": "RickGuard_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 123,
+						"h": 155
+					},
+					"frame": {
+						"x": 671,
+						"y": 309,
+						"w": 123,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickGuard_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 123,
+						"h": 154
+					},
+					"frame": {
+						"x": 535,
+						"y": 311,
+						"w": 123,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickGuard_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 123,
+						"h": 154
+					},
+					"frame": {
+						"x": 660,
+						"y": 466,
+						"w": 123,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickGuard_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 2,
+						"w": 107,
+						"h": 156
+					},
+					"frame": {
+						"x": 785,
+						"y": 466,
+						"w": 107,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickGuard_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 123,
+						"h": 153
+					},
+					"frame": {
+						"x": 535,
+						"y": 467,
+						"w": 123,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickGuard_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 2,
+						"w": 108,
+						"h": 156
+					},
+					"frame": {
+						"x": 535,
+						"y": 622,
+						"w": 108,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickGuard_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 108,
+						"h": 155
+					},
+					"frame": {
+						"x": 645,
+						"y": 622,
+						"w": 108,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickGuard_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 4,
+						"w": 108,
+						"h": 155
+					},
+					"frame": {
+						"x": 755,
+						"y": 624,
+						"w": 108,
+						"h": 155
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4a77c03a39ab178090825f9341760858:2926a38920211ea1631357ae6f52f173:c9135410d441065fea80a0dcafd0c4a0$"
+	}
+}

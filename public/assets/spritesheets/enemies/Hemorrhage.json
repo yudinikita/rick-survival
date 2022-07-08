@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Hemorrhage",
+			"format": "RGBA8888",
+			"size": {
+				"w": 581,
+				"h": 1944
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Hemorrhage_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 562,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 23,
+						"w": 518,
+						"h": 707
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 518,
+						"h": 707
+					}
+				},
+				{
+					"filename": "Hemorrhage_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 580,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 21,
+						"w": 573,
+						"h": 687
+					},
+					"frame": {
+						"x": 4,
+						"y": 719,
+						"w": 573,
+						"h": 687
+					}
+				},
+				{
+					"filename": "Hemorrhage_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 35,
+						"w": 81,
+						"h": 127
+					},
+					"frame": {
+						"x": 4,
+						"y": 1414,
+						"w": 81,
+						"h": 127
+					}
+				},
+				{
+					"filename": "Hemorrhage_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 33,
+						"w": 81,
+						"h": 126
+					},
+					"frame": {
+						"x": 4,
+						"y": 1549,
+						"w": 81,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Hemorrhage_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 36,
+						"w": 81,
+						"h": 125
+					},
+					"frame": {
+						"x": 4,
+						"y": 1683,
+						"w": 81,
+						"h": 125
+					}
+				},
+				{
+					"filename": "Hemorrhage_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 37,
+						"w": 81,
+						"h": 124
+					},
+					"frame": {
+						"x": 4,
+						"y": 1816,
+						"w": 81,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Hemorrhage_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 37,
+						"w": 81,
+						"h": 124
+					},
+					"frame": {
+						"x": 93,
+						"y": 1414,
+						"w": 81,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Hemorrhage_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 36,
+						"w": 81,
+						"h": 124
+					},
+					"frame": {
+						"x": 93,
+						"y": 1546,
+						"w": 81,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Hemorrhage_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 36,
+						"w": 81,
+						"h": 124
+					},
+					"frame": {
+						"x": 93,
+						"y": 1678,
+						"w": 81,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Hemorrhage_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 37,
+						"w": 81,
+						"h": 123
+					},
+					"frame": {
+						"x": 93,
+						"y": 1810,
+						"w": 81,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Hemorrhage_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 37,
+						"w": 81,
+						"h": 123
+					},
+					"frame": {
+						"x": 182,
+						"y": 1414,
+						"w": 81,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Hemorrhage_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 39,
+						"w": 81,
+						"h": 123
+					},
+					"frame": {
+						"x": 182,
+						"y": 1545,
+						"w": 81,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Hemorrhage_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 39,
+						"w": 81,
+						"h": 122
+					},
+					"frame": {
+						"x": 182,
+						"y": 1676,
+						"w": 81,
+						"h": 122
+					}
+				},
+				{
+					"filename": "Hemorrhage_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 39,
+						"w": 81,
+						"h": 122
+					},
+					"frame": {
+						"x": 182,
+						"y": 1806,
+						"w": 81,
+						"h": 122
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

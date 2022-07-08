@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "CommanderRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 508,
+				"h": 1936
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CommanderRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 406,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 15,
+						"w": 371,
+						"h": 715
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 371,
+						"h": 715
+					}
+				},
+				{
+					"filename": "CommanderRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 455,
+						"h": 715
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 437,
+						"h": 711
+					},
+					"frame": {
+						"x": 4,
+						"y": 727,
+						"w": 437,
+						"h": 711
+					}
+				},
+				{
+					"filename": "CommanderRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 112,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1446,
+						"w": 112,
+						"h": 157
+					}
+				},
+				{
+					"filename": "CommanderRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 111,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1611,
+						"w": 111,
+						"h": 157
+					}
+				},
+				{
+					"filename": "CommanderRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 4,
+						"w": 112,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1776,
+						"w": 112,
+						"h": 156
+					}
+				},
+				{
+					"filename": "CommanderRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 4,
+						"w": 112,
+						"h": 156
+					},
+					"frame": {
+						"x": 123,
+						"y": 1611,
+						"w": 112,
+						"h": 156
+					}
+				},
+				{
+					"filename": "CommanderRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 124,
+						"y": 1446,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "CommanderRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 124,
+						"y": 1775,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "CommanderRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 243,
+						"y": 1608,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "CommanderRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 254,
+						"y": 1446,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "CommanderRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 19,
+						"w": 120,
+						"h": 141
+					},
+					"frame": {
+						"x": 254,
+						"y": 1769,
+						"w": 120,
+						"h": 141
+					}
+				},
+				{
+					"filename": "CommanderRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 19,
+						"w": 120,
+						"h": 141
+					},
+					"frame": {
+						"x": 373,
+						"y": 1606,
+						"w": 120,
+						"h": 141
+					}
+				},
+				{
+					"filename": "CommanderRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 19,
+						"w": 120,
+						"h": 141
+					},
+					"frame": {
+						"x": 384,
+						"y": 1446,
+						"w": 120,
+						"h": 141
+					}
+				},
+				{
+					"filename": "CommanderRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 120,
+						"h": 139
+					},
+					"frame": {
+						"x": 382,
+						"y": 1755,
+						"w": 120,
+						"h": 139
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

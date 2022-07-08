@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "DeepthroatRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 479,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "DeepthroatRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 471,
+						"h": 701
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 471,
+						"h": 701
+					}
+				},
+				{
+					"filename": "DeepthroatRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 442,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 40,
+						"w": 392,
+						"h": 690
+					},
+					"frame": {
+						"x": 4,
+						"y": 713,
+						"w": 392,
+						"h": 690
+					}
+				},
+				{
+					"filename": "DeepthroatRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 118,
+						"h": 153
+					},
+					"frame": {
+						"x": 4,
+						"y": 1411,
+						"w": 118,
+						"h": 153
+					}
+				},
+				{
+					"filename": "DeepthroatRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 118,
+						"h": 152
+					},
+					"frame": {
+						"x": 4,
+						"y": 1572,
+						"w": 118,
+						"h": 152
+					}
+				},
+				{
+					"filename": "DeepthroatRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 118,
+						"h": 152
+					},
+					"frame": {
+						"x": 4,
+						"y": 1732,
+						"w": 118,
+						"h": 152
+					}
+				},
+				{
+					"filename": "DeepthroatRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 119,
+						"h": 151
+					},
+					"frame": {
+						"x": 4,
+						"y": 1892,
+						"w": 119,
+						"h": 151
+					}
+				},
+				{
+					"filename": "DeepthroatRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 11,
+						"w": 117,
+						"h": 151
+					},
+					"frame": {
+						"x": 131,
+						"y": 1892,
+						"w": 117,
+						"h": 151
+					}
+				},
+				{
+					"filename": "DeepthroatRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 118,
+						"h": 150
+					},
+					"frame": {
+						"x": 130,
+						"y": 1411,
+						"w": 118,
+						"h": 150
+					}
+				},
+				{
+					"filename": "DeepthroatRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 117,
+						"h": 150
+					},
+					"frame": {
+						"x": 130,
+						"y": 1569,
+						"w": 117,
+						"h": 150
+					}
+				},
+				{
+					"filename": "DeepthroatRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 117,
+						"h": 150
+					},
+					"frame": {
+						"x": 130,
+						"y": 1727,
+						"w": 117,
+						"h": 150
+					}
+				},
+				{
+					"filename": "DeepthroatRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 11,
+						"w": 118,
+						"h": 149
+					},
+					"frame": {
+						"x": 255,
+						"y": 1569,
+						"w": 118,
+						"h": 149
+					}
+				},
+				{
+					"filename": "DeepthroatRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 11,
+						"w": 118,
+						"h": 149
+					},
+					"frame": {
+						"x": 256,
+						"y": 1411,
+						"w": 118,
+						"h": 149
+					}
+				},
+				{
+					"filename": "DeepthroatRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 117,
+						"h": 149
+					},
+					"frame": {
+						"x": 255,
+						"y": 1726,
+						"w": 117,
+						"h": 149
+					}
+				},
+				{
+					"filename": "DeepthroatRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 117,
+						"h": 149
+					},
+					"frame": {
+						"x": 256,
+						"y": 1883,
+						"w": 117,
+						"h": 149
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

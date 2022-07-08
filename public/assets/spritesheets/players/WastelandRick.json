@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "WastelandRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 486,
+				"h": 1907
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "WastelandRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 22,
+						"w": 352,
+						"h": 708
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 352,
+						"h": 708
+					}
+				},
+				{
+					"filename": "WastelandRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 484,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 21,
+						"w": 472,
+						"h": 687
+					},
+					"frame": {
+						"x": 4,
+						"y": 720,
+						"w": 472,
+						"h": 687
+					}
+				},
+				{
+					"filename": "WastelandRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 102,
+						"h": 160
+					},
+					"frame": {
+						"x": 4,
+						"y": 1415,
+						"w": 102,
+						"h": 160
+					}
+				},
+				{
+					"filename": "WastelandRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 114,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1583,
+						"w": 114,
+						"h": 156
+					}
+				},
+				{
+					"filename": "WastelandRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 113,
+						"h": 156
+					},
+					"frame": {
+						"x": 114,
+						"y": 1415,
+						"w": 113,
+						"h": 156
+					}
+				},
+				{
+					"filename": "WastelandRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 5,
+						"w": 104,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1747,
+						"w": 104,
+						"h": 156
+					}
+				},
+				{
+					"filename": "WastelandRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 5,
+						"w": 104,
+						"h": 156
+					},
+					"frame": {
+						"x": 116,
+						"y": 1747,
+						"w": 104,
+						"h": 156
+					}
+				},
+				{
+					"filename": "WastelandRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 114,
+						"h": 155
+					},
+					"frame": {
+						"x": 126,
+						"y": 1579,
+						"w": 114,
+						"h": 155
+					}
+				},
+				{
+					"filename": "WastelandRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 114,
+						"h": 155
+					},
+					"frame": {
+						"x": 235,
+						"y": 1415,
+						"w": 114,
+						"h": 155
+					}
+				},
+				{
+					"filename": "WastelandRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 113,
+						"h": 154
+					},
+					"frame": {
+						"x": 228,
+						"y": 1742,
+						"w": 113,
+						"h": 154
+					}
+				},
+				{
+					"filename": "WastelandRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 113,
+						"h": 154
+					},
+					"frame": {
+						"x": 248,
+						"y": 1578,
+						"w": 113,
+						"h": 154
+					}
+				},
+				{
+					"filename": "WastelandRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 7,
+						"w": 106,
+						"h": 154
+					},
+					"frame": {
+						"x": 357,
+						"y": 1415,
+						"w": 106,
+						"h": 154
+					}
+				},
+				{
+					"filename": "WastelandRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 114,
+						"h": 153
+					},
+					"frame": {
+						"x": 349,
+						"y": 1740,
+						"w": 114,
+						"h": 153
+					}
+				},
+				{
+					"filename": "WastelandRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 113,
+						"h": 152
+					},
+					"frame": {
+						"x": 369,
+						"y": 1577,
+						"w": 113,
+						"h": 152
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

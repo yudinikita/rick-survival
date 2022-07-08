@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickJunkYard",
+			"format": "RGBA8888",
+			"size": {
+				"w": 442,
+				"h": 2012
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickJunkYard_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 34,
+						"w": 349,
+						"h": 696
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 349,
+						"h": 696
+					}
+				},
+				{
+					"filename": "RickJunkYard_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 447,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 31,
+						"w": 434,
+						"h": 677
+					},
+					"frame": {
+						"x": 4,
+						"y": 708,
+						"w": 434,
+						"h": 677
+					}
+				},
+				{
+					"filename": "RickJunkYard_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 11,
+						"w": 84,
+						"h": 149
+					},
+					"frame": {
+						"x": 4,
+						"y": 1393,
+						"w": 84,
+						"h": 149
+					}
+				},
+				{
+					"filename": "RickJunkYard_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 106,
+						"h": 148
+					},
+					"frame": {
+						"x": 4,
+						"y": 1550,
+						"w": 106,
+						"h": 148
+					}
+				},
+				{
+					"filename": "RickJunkYard_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 106,
+						"h": 148
+					},
+					"frame": {
+						"x": 96,
+						"y": 1393,
+						"w": 106,
+						"h": 148
+					}
+				},
+				{
+					"filename": "RickJunkYard_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 106,
+						"h": 147
+					},
+					"frame": {
+						"x": 4,
+						"y": 1706,
+						"w": 106,
+						"h": 147
+					}
+				},
+				{
+					"filename": "RickJunkYard_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 106,
+						"h": 147
+					},
+					"frame": {
+						"x": 4,
+						"y": 1861,
+						"w": 106,
+						"h": 147
+					}
+				},
+				{
+					"filename": "RickJunkYard_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 84,
+						"h": 147
+					},
+					"frame": {
+						"x": 118,
+						"y": 1549,
+						"w": 84,
+						"h": 147
+					}
+				},
+				{
+					"filename": "RickJunkYard_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 84,
+						"h": 147
+					},
+					"frame": {
+						"x": 118,
+						"y": 1704,
+						"w": 84,
+						"h": 147
+					}
+				},
+				{
+					"filename": "RickJunkYard_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 15,
+						"w": 84,
+						"h": 144
+					},
+					"frame": {
+						"x": 118,
+						"y": 1859,
+						"w": 84,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RickJunkYard_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 15,
+						"w": 75,
+						"h": 144
+					},
+					"frame": {
+						"x": 210,
+						"y": 1393,
+						"w": 75,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RickJunkYard_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 16,
+						"w": 75,
+						"h": 144
+					},
+					"frame": {
+						"x": 210,
+						"y": 1545,
+						"w": 75,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RickJunkYard_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 15,
+						"w": 75,
+						"h": 144
+					},
+					"frame": {
+						"x": 210,
+						"y": 1697,
+						"w": 75,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RickJunkYard_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 16,
+						"w": 75,
+						"h": 142
+					},
+					"frame": {
+						"x": 210,
+						"y": 1849,
+						"w": 75,
+						"h": 142
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

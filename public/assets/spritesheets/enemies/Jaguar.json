@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Jaguar",
+			"format": "RGBA8888",
+			"size": {
+				"w": 600,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Jaguar_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 562,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 43,
+						"w": 513,
+						"h": 687
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 513,
+						"h": 687
+					}
+				},
+				{
+					"filename": "Jaguar_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 613,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 43,
+						"w": 592,
+						"h": 665
+					},
+					"frame": {
+						"x": 4,
+						"y": 699,
+						"w": 592,
+						"h": 665
+					}
+				},
+				{
+					"filename": "Jaguar_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 31,
+						"w": 87,
+						"h": 129
+					},
+					"frame": {
+						"x": 4,
+						"y": 1372,
+						"w": 87,
+						"h": 129
+					}
+				},
+				{
+					"filename": "Jaguar_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 93,
+						"h": 128
+					},
+					"frame": {
+						"x": 4,
+						"y": 1509,
+						"w": 93,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Jaguar_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 87,
+						"h": 128
+					},
+					"frame": {
+						"x": 99,
+						"y": 1372,
+						"w": 87,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Jaguar_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 87,
+						"h": 128
+					},
+					"frame": {
+						"x": 4,
+						"y": 1645,
+						"w": 87,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Jaguar_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 30,
+						"w": 82,
+						"h": 128
+					},
+					"frame": {
+						"x": 4,
+						"y": 1781,
+						"w": 82,
+						"h": 128
+					}
+				},
+				{
+					"filename": "Jaguar_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 34,
+						"w": 87,
+						"h": 126
+					},
+					"frame": {
+						"x": 4,
+						"y": 1917,
+						"w": 87,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Jaguar_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 33,
+						"w": 82,
+						"h": 126
+					},
+					"frame": {
+						"x": 94,
+						"y": 1781,
+						"w": 82,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Jaguar_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 33,
+						"w": 82,
+						"h": 126
+					},
+					"frame": {
+						"x": 99,
+						"y": 1645,
+						"w": 82,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Jaguar_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 36,
+						"w": 82,
+						"h": 124
+					},
+					"frame": {
+						"x": 105,
+						"y": 1508,
+						"w": 82,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Jaguar_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 35,
+						"w": 91,
+						"h": 123
+					},
+					"frame": {
+						"x": 194,
+						"y": 1372,
+						"w": 91,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Jaguar_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 35,
+						"w": 91,
+						"h": 123
+					},
+					"frame": {
+						"x": 99,
+						"y": 1915,
+						"w": 91,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Jaguar_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 37,
+						"w": 90,
+						"h": 122
+					},
+					"frame": {
+						"x": 184,
+						"y": 1779,
+						"w": 90,
+						"h": 122
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

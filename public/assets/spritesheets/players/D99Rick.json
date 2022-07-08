@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "D99Rick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 442,
+				"h": 1969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "D99Rick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 746
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 352,
+						"h": 744
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 352,
+						"h": 744
+					}
+				},
+				{
+					"filename": "D99Rick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 719
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 434,
+						"h": 715
+					},
+					"frame": {
+						"x": 4,
+						"y": 756,
+						"w": 434,
+						"h": 715
+					}
+				},
+				{
+					"filename": "D99Rick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 4,
+						"w": 103,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1479,
+						"w": 103,
+						"h": 157
+					}
+				},
+				{
+					"filename": "D99Rick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 2,
+						"w": 101,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1644,
+						"w": 101,
+						"h": 157
+					}
+				},
+				{
+					"filename": "D99Rick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 4,
+						"w": 102,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1809,
+						"w": 102,
+						"h": 156
+					}
+				},
+				{
+					"filename": "D99Rick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 4,
+						"w": 102,
+						"h": 156
+					},
+					"frame": {
+						"x": 113,
+						"y": 1644,
+						"w": 102,
+						"h": 156
+					}
+				},
+				{
+					"filename": "D99Rick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 6,
+						"w": 77,
+						"h": 153
+					},
+					"frame": {
+						"x": 115,
+						"y": 1479,
+						"w": 77,
+						"h": 153
+					}
+				},
+				{
+					"filename": "D99Rick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 77,
+						"h": 152
+					},
+					"frame": {
+						"x": 200,
+						"y": 1479,
+						"w": 77,
+						"h": 152
+					}
+				},
+				{
+					"filename": "D99Rick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 77,
+						"h": 152
+					},
+					"frame": {
+						"x": 114,
+						"y": 1808,
+						"w": 77,
+						"h": 152
+					}
+				},
+				{
+					"filename": "D99Rick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 6,
+						"w": 74,
+						"h": 152
+					},
+					"frame": {
+						"x": 199,
+						"y": 1808,
+						"w": 74,
+						"h": 152
+					}
+				},
+				{
+					"filename": "D99Rick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 74,
+						"h": 151
+					},
+					"frame": {
+						"x": 223,
+						"y": 1639,
+						"w": 74,
+						"h": 151
+					}
+				},
+				{
+					"filename": "D99Rick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 8,
+						"w": 74,
+						"h": 151
+					},
+					"frame": {
+						"x": 285,
+						"y": 1479,
+						"w": 74,
+						"h": 151
+					}
+				},
+				{
+					"filename": "D99Rick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 10,
+						"w": 77,
+						"h": 150
+					},
+					"frame": {
+						"x": 281,
+						"y": 1798,
+						"w": 77,
+						"h": 150
+					}
+				},
+				{
+					"filename": "D99Rick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 10,
+						"w": 74,
+						"h": 150
+					},
+					"frame": {
+						"x": 305,
+						"y": 1638,
+						"w": 74,
+						"h": 150
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

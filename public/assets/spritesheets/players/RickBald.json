@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickBald",
+			"format": "RGBA8888",
+			"size": {
+				"w": 592,
+				"h": 1314
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickBald_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 360,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 41,
+						"w": 337,
+						"h": 689
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 337,
+						"h": 689
+					}
+				},
+				{
+					"filename": "RickBald_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 99,
+						"w": 434,
+						"h": 609
+					},
+					"frame": {
+						"x": 4,
+						"y": 701,
+						"w": 434,
+						"h": 609
+					}
+				},
+				{
+					"filename": "RickBald_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 28,
+						"w": 78,
+						"h": 132
+					},
+					"frame": {
+						"x": 349,
+						"y": 4,
+						"w": 78,
+						"h": 132
+					}
+				},
+				{
+					"filename": "RickBald_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 29,
+						"w": 78,
+						"h": 131
+					},
+					"frame": {
+						"x": 349,
+						"y": 144,
+						"w": 78,
+						"h": 131
+					}
+				},
+				{
+					"filename": "RickBald_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 29,
+						"w": 78,
+						"h": 131
+					},
+					"frame": {
+						"x": 349,
+						"y": 283,
+						"w": 78,
+						"h": 131
+					}
+				},
+				{
+					"filename": "RickBald_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 30,
+						"w": 78,
+						"h": 129
+					},
+					"frame": {
+						"x": 349,
+						"y": 422,
+						"w": 78,
+						"h": 129
+					}
+				},
+				{
+					"filename": "RickBald_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 31,
+						"w": 71,
+						"h": 128
+					},
+					"frame": {
+						"x": 349,
+						"y": 559,
+						"w": 71,
+						"h": 128
+					}
+				},
+				{
+					"filename": "RickBald_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 33,
+						"w": 71,
+						"h": 127
+					},
+					"frame": {
+						"x": 428,
+						"y": 559,
+						"w": 71,
+						"h": 127
+					}
+				},
+				{
+					"filename": "RickBald_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 33,
+						"w": 71,
+						"h": 127
+					},
+					"frame": {
+						"x": 435,
+						"y": 4,
+						"w": 71,
+						"h": 127
+					}
+				},
+				{
+					"filename": "RickBald_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 71,
+						"h": 127
+					},
+					"frame": {
+						"x": 435,
+						"y": 139,
+						"w": 71,
+						"h": 127
+					}
+				},
+				{
+					"filename": "RickBald_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 38,
+						"w": 74,
+						"h": 121
+					},
+					"frame": {
+						"x": 435,
+						"y": 274,
+						"w": 74,
+						"h": 121
+					}
+				},
+				{
+					"filename": "RickBald_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 39,
+						"w": 74,
+						"h": 121
+					},
+					"frame": {
+						"x": 435,
+						"y": 403,
+						"w": 74,
+						"h": 121
+					}
+				},
+				{
+					"filename": "RickBald_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 38,
+						"w": 74,
+						"h": 121
+					},
+					"frame": {
+						"x": 514,
+						"y": 4,
+						"w": 74,
+						"h": 121
+					}
+				},
+				{
+					"filename": "RickBald_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 37,
+						"w": 74,
+						"h": 121
+					},
+					"frame": {
+						"x": 514,
+						"y": 133,
+						"w": 74,
+						"h": 121
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RatSuitPickleRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 648,
+				"h": 1993
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RatSuitPickleRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 634,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 35,
+						"w": 613,
+						"h": 695
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 613,
+						"h": 695
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 655,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 31,
+						"w": 640,
+						"h": 677
+					},
+					"frame": {
+						"x": 4,
+						"y": 707,
+						"w": 640,
+						"h": 677
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 119,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1392,
+						"w": 119,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 17,
+						"w": 115,
+						"h": 144
+					},
+					"frame": {
+						"x": 4,
+						"y": 1544,
+						"w": 115,
+						"h": 144
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 17,
+						"w": 119,
+						"h": 143
+					},
+					"frame": {
+						"x": 4,
+						"y": 1696,
+						"w": 119,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 17,
+						"w": 119,
+						"h": 143
+					},
+					"frame": {
+						"x": 127,
+						"y": 1544,
+						"w": 119,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 17,
+						"w": 115,
+						"h": 143
+					},
+					"frame": {
+						"x": 131,
+						"y": 1392,
+						"w": 115,
+						"h": 143
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 19,
+						"w": 115,
+						"h": 142
+					},
+					"frame": {
+						"x": 4,
+						"y": 1847,
+						"w": 115,
+						"h": 142
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 19,
+						"w": 115,
+						"h": 142
+					},
+					"frame": {
+						"x": 127,
+						"y": 1847,
+						"w": 115,
+						"h": 142
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 18,
+						"w": 119,
+						"h": 141
+					},
+					"frame": {
+						"x": 131,
+						"y": 1695,
+						"w": 119,
+						"h": 141
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 19,
+						"w": 89,
+						"h": 139
+					},
+					"frame": {
+						"x": 250,
+						"y": 1844,
+						"w": 89,
+						"h": 139
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 20,
+						"w": 94,
+						"h": 137
+					},
+					"frame": {
+						"x": 254,
+						"y": 1392,
+						"w": 94,
+						"h": 137
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 22,
+						"w": 78,
+						"h": 137
+					},
+					"frame": {
+						"x": 254,
+						"y": 1537,
+						"w": 78,
+						"h": 137
+					}
+				},
+				{
+					"filename": "RatSuitPickleRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 22,
+						"w": 78,
+						"h": 137
+					},
+					"frame": {
+						"x": 258,
+						"y": 1682,
+						"w": 78,
+						"h": 137
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

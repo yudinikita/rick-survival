@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "Froopy14",
+			"format": "RGBA8888",
+			"size": {
+				"w": 581,
+				"h": 2007
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Froopy14_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 582,
+						"h": 749
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 573,
+						"h": 743
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 573,
+						"h": 743
+					}
+				},
+				{
+					"filename": "Froopy14_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 556,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 40,
+						"w": 544,
+						"h": 690
+					},
+					"frame": {
+						"x": 4,
+						"y": 755,
+						"w": 544,
+						"h": 690
+					}
+				},
+				{
+					"filename": "Froopy14_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 25,
+						"w": 106,
+						"h": 135
+					},
+					"frame": {
+						"x": 4,
+						"y": 1453,
+						"w": 106,
+						"h": 135
+					}
+				},
+				{
+					"filename": "Froopy14_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 28,
+						"w": 110,
+						"h": 131
+					},
+					"frame": {
+						"x": 4,
+						"y": 1596,
+						"w": 110,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Froopy14_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 27,
+						"w": 109,
+						"h": 131
+					},
+					"frame": {
+						"x": 118,
+						"y": 1453,
+						"w": 109,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Froopy14_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 27,
+						"w": 109,
+						"h": 131
+					},
+					"frame": {
+						"x": 4,
+						"y": 1735,
+						"w": 109,
+						"h": 131
+					}
+				},
+				{
+					"filename": "Froopy14_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 29,
+						"w": 101,
+						"h": 129
+					},
+					"frame": {
+						"x": 4,
+						"y": 1874,
+						"w": 101,
+						"h": 129
+					}
+				},
+				{
+					"filename": "Froopy14_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 29,
+						"w": 98,
+						"h": 129
+					},
+					"frame": {
+						"x": 113,
+						"y": 1874,
+						"w": 98,
+						"h": 129
+					}
+				},
+				{
+					"filename": "Froopy14_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 29,
+						"w": 97,
+						"h": 129
+					},
+					"frame": {
+						"x": 121,
+						"y": 1735,
+						"w": 97,
+						"h": 129
+					}
+				},
+				{
+					"filename": "Froopy14_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 31,
+						"w": 100,
+						"h": 127
+					},
+					"frame": {
+						"x": 219,
+						"y": 1592,
+						"w": 100,
+						"h": 127
+					}
+				},
+				{
+					"filename": "Froopy14_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 31,
+						"w": 100,
+						"h": 127
+					},
+					"frame": {
+						"x": 235,
+						"y": 1453,
+						"w": 100,
+						"h": 127
+					}
+				},
+				{
+					"filename": "Froopy14_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 32,
+						"w": 103,
+						"h": 126
+					},
+					"frame": {
+						"x": 219,
+						"y": 1872,
+						"w": 103,
+						"h": 126
+					}
+				},
+				{
+					"filename": "Froopy14_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 33,
+						"w": 101,
+						"h": 125
+					},
+					"frame": {
+						"x": 226,
+						"y": 1727,
+						"w": 101,
+						"h": 125
+					}
+				},
+				{
+					"filename": "Froopy14_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 33,
+						"w": 101,
+						"h": 125
+					},
+					"frame": {
+						"x": 330,
+						"y": 1588,
+						"w": 101,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

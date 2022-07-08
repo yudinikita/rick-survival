@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "TinyRick",
+			"format": "RGBA8888",
+			"size": {
+				"w": 459,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "TinyRick_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 487,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 20,
+						"w": 451,
+						"h": 710
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 451,
+						"h": 710
+					}
+				},
+				{
+					"filename": "TinyRick_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 346,
+						"h": 708
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 315,
+						"h": 699
+					},
+					"frame": {
+						"x": 4,
+						"y": 722,
+						"w": 315,
+						"h": 699
+					}
+				},
+				{
+					"filename": "TinyRick_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 42,
+						"w": 100,
+						"h": 119
+					},
+					"frame": {
+						"x": 4,
+						"y": 1429,
+						"w": 100,
+						"h": 119
+					}
+				},
+				{
+					"filename": "TinyRick_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 44,
+						"w": 100,
+						"h": 117
+					},
+					"frame": {
+						"x": 4,
+						"y": 1556,
+						"w": 100,
+						"h": 117
+					}
+				},
+				{
+					"filename": "TinyRick_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 44,
+						"w": 100,
+						"h": 117
+					},
+					"frame": {
+						"x": 4,
+						"y": 1681,
+						"w": 100,
+						"h": 117
+					}
+				},
+				{
+					"filename": "TinyRick_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 45,
+						"w": 89,
+						"h": 116
+					},
+					"frame": {
+						"x": 4,
+						"y": 1806,
+						"w": 89,
+						"h": 116
+					}
+				},
+				{
+					"filename": "TinyRick_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 45,
+						"w": 100,
+						"h": 114
+					},
+					"frame": {
+						"x": 4,
+						"y": 1930,
+						"w": 100,
+						"h": 114
+					}
+				},
+				{
+					"filename": "TinyRick_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 45,
+						"w": 87,
+						"h": 116
+					},
+					"frame": {
+						"x": 101,
+						"y": 1806,
+						"w": 87,
+						"h": 116
+					}
+				},
+				{
+					"filename": "TinyRick_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 45,
+						"w": 100,
+						"h": 114
+					},
+					"frame": {
+						"x": 112,
+						"y": 1930,
+						"w": 100,
+						"h": 114
+					}
+				},
+				{
+					"filename": "TinyRick_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 44,
+						"w": 100,
+						"h": 115
+					},
+					"frame": {
+						"x": 112,
+						"y": 1429,
+						"w": 100,
+						"h": 115
+					}
+				},
+				{
+					"filename": "TinyRick_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 44,
+						"w": 100,
+						"h": 115
+					},
+					"frame": {
+						"x": 112,
+						"y": 1552,
+						"w": 100,
+						"h": 115
+					}
+				},
+				{
+					"filename": "TinyRick_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 46,
+						"w": 100,
+						"h": 115
+					},
+					"frame": {
+						"x": 112,
+						"y": 1675,
+						"w": 100,
+						"h": 115
+					}
+				},
+				{
+					"filename": "TinyRick_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 45,
+						"w": 88,
+						"h": 115
+					},
+					"frame": {
+						"x": 196,
+						"y": 1798,
+						"w": 88,
+						"h": 115
+					}
+				},
+				{
+					"filename": "TinyRick_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 45,
+						"w": 88,
+						"h": 115
+					},
+					"frame": {
+						"x": 220,
+						"y": 1921,
+						"w": 88,
+						"h": 115
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

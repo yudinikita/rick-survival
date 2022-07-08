@@ -1,0 +1,649 @@
+{
+	"textures": [
+		{
+			"image": "Bullets",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1768,
+				"h": 333
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gauss-gun1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 241
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 321,
+						"h": 241
+					}
+				},
+				{
+					"filename": "plasmogun2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 146
+					},
+					"frame": {
+						"x": 333,
+						"y": 4,
+						"w": 259,
+						"h": 146
+					}
+				},
+				{
+					"filename": "gauss-gun3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 134
+					},
+					"frame": {
+						"x": 600,
+						"y": 4,
+						"w": 233,
+						"h": 134
+					}
+				},
+				{
+					"filename": "plasmogun3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 134
+					},
+					"frame": {
+						"x": 841,
+						"y": 4,
+						"w": 233,
+						"h": 134
+					}
+				},
+				{
+					"filename": "rifle3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 132
+					},
+					"frame": {
+						"x": 1082,
+						"y": 4,
+						"w": 231,
+						"h": 132
+					}
+				},
+				{
+					"filename": "gauss-gun2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 212,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 212,
+						"h": 92
+					},
+					"frame": {
+						"x": 1321,
+						"y": 4,
+						"w": 212,
+						"h": 92
+					}
+				},
+				{
+					"filename": "blaster1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 129
+					},
+					"frame": {
+						"x": 1541,
+						"y": 4,
+						"w": 141,
+						"h": 129
+					}
+				},
+				{
+					"filename": "blaster2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 123
+					},
+					"frame": {
+						"x": 1321,
+						"y": 104,
+						"w": 127,
+						"h": 123
+					}
+				},
+				{
+					"filename": "shuriken1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1456,
+						"y": 104,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "machine-gun3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1514,
+						"y": 104,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "machine1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1514,
+						"y": 128,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "blaster3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 123
+					},
+					"frame": {
+						"x": 1082,
+						"y": 144,
+						"w": 126,
+						"h": 123
+					}
+				},
+				{
+					"filename": "shuriken2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1216,
+						"y": 144,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "machine3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 44,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 32,
+						"h": 33
+					},
+					"frame": {
+						"x": 1273,
+						"y": 144,
+						"w": 32,
+						"h": 33
+					}
+				},
+				{
+					"filename": "pistol3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 1273,
+						"y": 185,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "shuriken3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 1216,
+						"y": 201,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rocket-gun3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 50
+					},
+					"frame": {
+						"x": 1271,
+						"y": 223,
+						"w": 24,
+						"h": 50
+					}
+				},
+				{
+					"filename": "revolver3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 40
+					},
+					"frame": {
+						"x": 1303,
+						"y": 223,
+						"w": 10,
+						"h": 40
+					}
+				},
+				{
+					"filename": "revolver2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 30
+					},
+					"frame": {
+						"x": 1303,
+						"y": 271,
+						"w": 10,
+						"h": 30
+					}
+				},
+				{
+					"filename": "revolver1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 20
+					},
+					"frame": {
+						"x": 1303,
+						"y": 309,
+						"w": 10,
+						"h": 20
+					}
+				},
+				{
+					"filename": "pistol2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 1216,
+						"y": 256,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "machine2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1244,
+						"y": 256,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "rifle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1244,
+						"y": 280,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "submachine-gun",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1268,
+						"y": 281,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "submachine-gun1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1268,
+						"y": 305,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "submachine-gun2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1690,
+						"y": 4,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "rifle2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 49
+					},
+					"frame": {
+						"x": 1714,
+						"y": 4,
+						"w": 14,
+						"h": 49
+					}
+				},
+				{
+					"filename": "rifle1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 39
+					},
+					"frame": {
+						"x": 1690,
+						"y": 28,
+						"w": 12,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pistol",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 1736,
+						"y": 4,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "pistol1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 1754,
+						"y": 4,
+						"w": 10,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "GromflamiteSoldier",
+			"format": "RGBA8888",
+			"size": {
+				"w": 800,
+				"h": 2040
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "GromflamiteSoldier_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 814,
+						"h": 729
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 5,
+						"w": 792,
+						"h": 724
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 792,
+						"h": 724
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 696,
+						"h": 730
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 19,
+						"w": 560,
+						"h": 711
+					},
+					"frame": {
+						"x": 4,
+						"y": 736,
+						"w": 560,
+						"h": 711
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 118,
+						"h": 150
+					},
+					"frame": {
+						"x": 4,
+						"y": 1455,
+						"w": 118,
+						"h": 150
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 4,
+						"y": 1613,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 130,
+						"y": 1455,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 117,
+						"h": 148
+					},
+					"frame": {
+						"x": 4,
+						"y": 1770,
+						"w": 117,
+						"h": 148
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 29,
+						"w": 112,
+						"h": 130
+					},
+					"frame": {
+						"x": 129,
+						"y": 1770,
+						"w": 112,
+						"h": 130
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 32,
+						"w": 112,
+						"h": 128
+					},
+					"frame": {
+						"x": 129,
+						"y": 1908,
+						"w": 112,
+						"h": 128
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 32,
+						"w": 112,
+						"h": 128
+					},
+					"frame": {
+						"x": 132,
+						"y": 1612,
+						"w": 112,
+						"h": 128
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 33,
+						"w": 112,
+						"h": 128
+					},
+					"frame": {
+						"x": 249,
+						"y": 1748,
+						"w": 112,
+						"h": 128
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 34,
+						"w": 112,
+						"h": 125
+					},
+					"frame": {
+						"x": 252,
+						"y": 1612,
+						"w": 112,
+						"h": 125
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 32,
+						"w": 112,
+						"h": 125
+					},
+					"frame": {
+						"x": 258,
+						"y": 1455,
+						"w": 112,
+						"h": 125
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 34,
+						"w": 112,
+						"h": 125
+					},
+					"frame": {
+						"x": 372,
+						"y": 1588,
+						"w": 112,
+						"h": 125
+					}
+				},
+				{
+					"filename": "GromflamiteSoldier_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 34,
+						"w": 112,
+						"h": 125
+					},
+					"frame": {
+						"x": 378,
+						"y": 1455,
+						"w": 112,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

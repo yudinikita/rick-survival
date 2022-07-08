@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickTurberlent",
+			"format": "RGBA8888",
+			"size": {
+				"w": 682,
+				"h": 1956
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickTurberlent_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 944,
+						"h": 743
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 10,
+						"w": 674,
+						"h": 733
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 674,
+						"h": 733
+					}
+				},
+				{
+					"filename": "RickTurberlent_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 664,
+						"h": 725
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 10,
+						"w": 642,
+						"h": 715
+					},
+					"frame": {
+						"x": 4,
+						"y": 745,
+						"w": 642,
+						"h": 715
+					}
+				},
+				{
+					"filename": "RickTurberlent_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 112,
+						"h": 157
+					},
+					"frame": {
+						"x": 4,
+						"y": 1468,
+						"w": 112,
+						"h": 157
+					}
+				},
+				{
+					"filename": "RickTurberlent_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 5,
+						"w": 110,
+						"h": 156
+					},
+					"frame": {
+						"x": 4,
+						"y": 1633,
+						"w": 110,
+						"h": 156
+					}
+				},
+				{
+					"filename": "RickTurberlent_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 4,
+						"y": 1797,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickTurberlent_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 122,
+						"y": 1633,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickTurberlent_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 111,
+						"h": 154
+					},
+					"frame": {
+						"x": 124,
+						"y": 1468,
+						"w": 111,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickTurberlent_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 111,
+						"h": 154
+					},
+					"frame": {
+						"x": 243,
+						"y": 1468,
+						"w": 111,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickTurberlent_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 134,
+						"y": 1795,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickTurberlent_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 252,
+						"y": 1630,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickTurberlent_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 362,
+						"y": 1468,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickTurberlent_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 153
+					},
+					"frame": {
+						"x": 264,
+						"y": 1791,
+						"w": 122,
+						"h": 153
+					}
+				},
+				{
+					"filename": "RickTurberlent_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 382,
+						"y": 1629,
+						"w": 122,
+						"h": 151
+					}
+				},
+				{
+					"filename": "RickTurberlent_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 492,
+						"y": 1468,
+						"w": 122,
+						"h": 151
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

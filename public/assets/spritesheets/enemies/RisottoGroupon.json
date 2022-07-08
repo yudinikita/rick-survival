@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RisottoGroupon",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2028,
+				"h": 705
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RisottoGroupon_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 888,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 17,
+						"w": 867,
+						"h": 697
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 867,
+						"h": 697
+					}
+				},
+				{
+					"filename": "RisottoGroupon_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 765,
+						"h": 746
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 54,
+						"w": 755,
+						"h": 692
+					},
+					"frame": {
+						"x": 879,
+						"y": 4,
+						"w": 755,
+						"h": 692
+					}
+				},
+				{
+					"filename": "RisottoGroupon_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 25,
+						"w": 122,
+						"h": 135
+					},
+					"frame": {
+						"x": 1642,
+						"y": 4,
+						"w": 122,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RisottoGroupon_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 122,
+						"h": 135
+					},
+					"frame": {
+						"x": 1772,
+						"y": 4,
+						"w": 122,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RisottoGroupon_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 25,
+						"w": 122,
+						"h": 135
+					},
+					"frame": {
+						"x": 1902,
+						"y": 4,
+						"w": 122,
+						"h": 135
+					}
+				},
+				{
+					"filename": "RisottoGroupon_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 1642,
+						"y": 147,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RisottoGroupon_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 30,
+						"w": 117,
+						"h": 128
+					},
+					"frame": {
+						"x": 1770,
+						"y": 147,
+						"w": 117,
+						"h": 128
+					}
+				},
+				{
+					"filename": "RisottoGroupon_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 30,
+						"w": 117,
+						"h": 128
+					},
+					"frame": {
+						"x": 1895,
+						"y": 147,
+						"w": 117,
+						"h": 128
+					}
+				},
+				{
+					"filename": "RisottoGroupon_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 116,
+						"h": 133
+					},
+					"frame": {
+						"x": 1770,
+						"y": 283,
+						"w": 116,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RisottoGroupon_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 116,
+						"h": 133
+					},
+					"frame": {
+						"x": 1642,
+						"y": 289,
+						"w": 116,
+						"h": 133
+					}
+				},
+				{
+					"filename": "RisottoGroupon_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 115,
+						"h": 134
+					},
+					"frame": {
+						"x": 1894,
+						"y": 283,
+						"w": 115,
+						"h": 134
+					}
+				},
+				{
+					"filename": "RisottoGroupon_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 31,
+						"w": 115,
+						"h": 127
+					},
+					"frame": {
+						"x": 1766,
+						"y": 424,
+						"w": 115,
+						"h": 127
+					}
+				},
+				{
+					"filename": "RisottoGroupon_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 27,
+						"w": 114,
+						"h": 131
+					},
+					"frame": {
+						"x": 1642,
+						"y": 430,
+						"w": 114,
+						"h": 131
+					}
+				},
+				{
+					"filename": "RisottoGroupon_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 29,
+						"w": 114,
+						"h": 129
+					},
+					"frame": {
+						"x": 1889,
+						"y": 425,
+						"w": 114,
+						"h": 129
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

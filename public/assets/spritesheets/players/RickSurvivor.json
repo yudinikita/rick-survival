@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "RickSurvivor",
+			"format": "RGBA8888",
+			"size": {
+				"w": 504,
+				"h": 1970
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RickSurvivor_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 469,
+						"h": 758
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 28,
+						"w": 447,
+						"h": 730
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 447,
+						"h": 730
+					}
+				},
+				{
+					"filename": "RickSurvivor_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 480,
+						"h": 729
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 435,
+						"h": 723
+					},
+					"frame": {
+						"x": 4,
+						"y": 742,
+						"w": 435,
+						"h": 723
+					}
+				},
+				{
+					"filename": "RickSurvivor_side_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 106,
+						"h": 160
+					},
+					"frame": {
+						"x": 4,
+						"y": 1473,
+						"w": 106,
+						"h": 160
+					}
+				},
+				{
+					"filename": "RickSurvivor_side_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 104,
+						"h": 159
+					},
+					"frame": {
+						"x": 4,
+						"y": 1641,
+						"w": 104,
+						"h": 159
+					}
+				},
+				{
+					"filename": "RickSurvivor_side_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 104,
+						"h": 158
+					},
+					"frame": {
+						"x": 4,
+						"y": 1808,
+						"w": 104,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSurvivor_side_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 104,
+						"h": 158
+					},
+					"frame": {
+						"x": 116,
+						"y": 1641,
+						"w": 104,
+						"h": 158
+					}
+				},
+				{
+					"filename": "RickSurvivor_up_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 122,
+						"h": 155
+					},
+					"frame": {
+						"x": 118,
+						"y": 1473,
+						"w": 122,
+						"h": 155
+					}
+				},
+				{
+					"filename": "RickSurvivor_up_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 116,
+						"y": 1807,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickSurvivor_up_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 122,
+						"h": 154
+					},
+					"frame": {
+						"x": 228,
+						"y": 1636,
+						"w": 122,
+						"h": 154
+					}
+				},
+				{
+					"filename": "RickSurvivor_up_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 122,
+						"h": 152
+					},
+					"frame": {
+						"x": 248,
+						"y": 1473,
+						"w": 122,
+						"h": 152
+					}
+				},
+				{
+					"filename": "RickSurvivor_down_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 122,
+						"h": 151
+					},
+					"frame": {
+						"x": 246,
+						"y": 1798,
+						"w": 122,
+						"h": 151
+					}
+				},
+				{
+					"filename": "RickSurvivor_down_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 122,
+						"h": 148
+					},
+					"frame": {
+						"x": 358,
+						"y": 1633,
+						"w": 122,
+						"h": 148
+					}
+				},
+				{
+					"filename": "RickSurvivor_down_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 122,
+						"h": 148
+					},
+					"frame": {
+						"x": 378,
+						"y": 1473,
+						"w": 122,
+						"h": 148
+					}
+				},
+				{
+					"filename": "RickSurvivor_down_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 122,
+						"h": 145
+					},
+					"frame": {
+						"x": 376,
+						"y": 1789,
+						"w": 122,
+						"h": 145
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

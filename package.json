@@ -1,0 +1,34 @@
+{
+  "name": "rick-survival",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Survive and shoot at others while trying to keep your own alive",
+  "author": "Nikita Yudin <nikitayudin782@gmail.com>",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "snowpack dev",
+    "prebuild": "tsc && yarn lint",
+    "build": "snowpack build",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix",
+    "electron:start": "yarn --cwd ./electron start",
+    "electron:dist": "yarn --cwd ./electron dist",
+    "website:dev": "yarn --cwd ./website dev"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-unicorn": "^42.0.0",
+    "phaser": "^3.55.2",
+    "phaser3-rex-plugins": "^1.1.69",
+    "prettier": "^2.6.2",
+    "snowpack": "^3.8.8",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "rot-js": "^2.2.0"
+  }
+}
