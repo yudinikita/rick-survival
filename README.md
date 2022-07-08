@@ -29,7 +29,7 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178054079-795a9922-bc20-489d-ae5e-eb9df319569f.gif" width="50">
 
-## Built with
+## 🔨 Built with
 - [Phaser3](https://github.com/photonstorm/phaser) - Game engine
 - [Snowpack](https://github.com/FredKSchott/snowpack) - Build tool
 - [Rot.js](https://github.com/ondras/rot.js) - Map generation
@@ -39,7 +39,7 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178054752-b5d20d68-167f-4e1b-88c0-e6472d9d296f.gif" width="50">
 
-## Features
+## ✨ Features
 - Random Worlds Generation
 - - 11 exciting dimensions
 - Drop items from enemies
@@ -69,7 +69,7 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178058461-d269af7f-7a38-4f8d-b8cd-9340589ef545.gif" width="50">
 
-## Environment Support
+## 🖥 Environment Support
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Electron |
 | --- | --- | --- | --- | --- |
