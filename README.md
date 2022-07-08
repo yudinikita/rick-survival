@@ -61,6 +61,8 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 - - sniper (low rate of fire, high damage)
 - - machine gun (high rate of fire, low damage)
 - - hands (high health, high body damage)
+- Enemies waves generator
+- - can set the type of enemy, the count and spawn interval
 - 500 monsters in battle at once
 - - enemies appear at random locations behind the screen
 - Animations, music and sounds
