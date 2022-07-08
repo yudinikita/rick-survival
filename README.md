@@ -7,7 +7,7 @@
 <h3 align="center">Rick Survival</h3>
 
 <p align="center">
-  You’re Rick Sanchez, everyone’s favorite unstable genius.
+  You’re Rick Sanchez, everyone’s favorite unstable genius. Survive and destroy thousands of monsters!
   <br>
   <a href="https://rick-survival.com"><strong>Explore Official Website »</strong></a>
   <br>
