@@ -43,10 +43,10 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 - Random Worlds Generation
 - - 11 exciting dimensions
 - Drop items from enemies
-- - Experience, Money & Health
+- - experience, Money & Health
 - Character Evolution
 - - 46 different Ricks
-- - Evolution at levels 15-20-25-30
+- - evolution at levels 15-20-25-30
 - Upgrade 7 characteristics
 - - health regeneration
 - - maximum health
@@ -57,10 +57,10 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 - - movement speed
 - 33 unique weapons
 - 4 styles of play
-- - Pistol (balance)
-- - Sniper (low rate of fire, high damage)
-- - Machine gun (high rate of fire, low damage)
-- - Hands (high health, high body damage)
+- - pistol (balance)
+- - sniper (low rate of fire, high damage)
+- - machine gun (high rate of fire, low damage)
+- - hands (high health, high body damage)
 - 500 monsters in battle at once
-- - Enemies appear at random locations behind the screen
+- - enemies appear at random locations behind the screen
 - Animations, music and sounds
