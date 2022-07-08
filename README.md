@@ -75,6 +75,8 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 | --- | --- | --- | --- | --- |
 | last 2 versions | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178062917-d250b650-195c-4dee-a5bc-220f85d47b35.gif" width="50">
+
 ## 📝 Getting started
 
 ### 1. Installation
@@ -87,31 +89,33 @@ yarn install
 
 ### 2. Usage
 
-### 2.1. Game
+#### 2.1. Game
 
 ```bash
 yarn start
 ```
 
-### 2.2. Website
+#### 2.2. Website
 
 ```bash
 yarn website:dev
 ```
 
-### 2.3. Electron
+#### 2.3. Electron
 
 ```bash
 yarn build
 yarn electron:start
 ```
 
-## 3. Build
+### 3. Build
 
 ```bash
 yarn build
 yarn electron:dist
 ```
+
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178063027-ce2f4cc0-3322-43fe-aa46-5ecf0d570cf1.gif" width="50">
 
 ## 🗂 Resourses
 - [Official Website](https://www.youtube.com/watch?v=fFbHJQXk_qM)
@@ -119,12 +123,16 @@ yarn electron:dist
 - [Gameplay](https://www.youtube.com/watch?v=ZKgzCRgkzhs)
 - [Download]()
 
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178062377-7e547aa2-1566-4b1b-869e-54d8e9bdec98.gif" width="50">
+
 ## 💬 Note
 
 If you have any suggestions or problems using the application, write to the
 mail.
 
 Before creating it, I was inspired by three games: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/), [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland) and [Magic Survivor](https://play.google.com/store/apps/details?id=com.vkslrzm.Zombie).
+
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178062261-638e3d64-d90e-4442-86ab-5bc5b83d1839.gif" width="50">
 
 ## 🔐 License
 
