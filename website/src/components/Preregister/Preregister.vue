@@ -11,7 +11,11 @@
           >Рика вновь осаждают орды монстров, и ему не выстоять без вашей
           помощи. Загрузите игру БЕСПЛАТНО!
         </Description>
-        <a class="btn btn-wide btn-primary sm:btn-sm md:btn-md lg:btn-lg">
+        <a
+          class="btn btn-wide btn-primary sm:btn-sm md:btn-md lg:btn-lg"
+          target="_blank"
+          href="https://github.com/nblackninja/rick-survival/releases/latest"
+        >
           Загрузить игру
         </a>
       </div>
