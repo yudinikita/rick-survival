@@ -4,7 +4,7 @@ import type { PlayerNameType } from '../types/players'
 import type { WeaponType } from '../types/weapons'
 
 const DEBUG = false
-const CHEATS = true
+const CHEATS = false
 
 const SCALE = 1
 
