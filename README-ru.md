@@ -131,7 +131,7 @@ yarn electron:dist
 
 Если у вас есть пожелания или проблемы с использованием приложения, пишите на почту.
 
-Перед созданиям, я вдохновился 3 играми: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/), [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland) and [Magic Survivor](https://play.google.com/store/apps/details?id=com.vkslrzm.Zombie).
+Перед созданиям, я вдохновился 3 играми: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/), [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland) и [Magic Survivor](https://play.google.com/store/apps/details?id=com.vkslrzm.Zombie).
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178062261-638e3d64-d90e-4442-86ab-5bc5b83d1839.gif" width="50">
 
