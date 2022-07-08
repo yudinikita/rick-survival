@@ -16,7 +16,7 @@
   ·
   <a href="https://www.youtube.com/watch?v=ZKgzCRgkzhs">Gameplay Video</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Download</a>
+  <a href="https://rick-survival.com">Download</a>
 </p>
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178049123-edb92253-aeef-4f41-be85-a99fec02ce1f.gif" width="50">
@@ -74,3 +74,64 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Electron |
 | --- | --- | --- | --- | --- |
 | last 2 versions | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
+
+## 📝 Getting started
+
+### 1. Installation
+
+```bash
+git clone https://github.com/nblackninja/rick-survival.git
+cd rick-survival
+yarn install
+```
+
+### 2. Usage
+
+### 2.1. Game
+
+```bash
+yarn start
+```
+
+### 2.2. Website
+
+```bash
+yarn website:dev
+```
+
+### 2.3. Electron
+
+```bash
+yarn build
+yarn electron:start
+```
+
+## 3. Build
+
+```bash
+yarn build
+yarn electron:dist
+```
+
+## 🗂 Resourses
+- [Official Website](https://www.youtube.com/watch?v=fFbHJQXk_qM)
+- [Trailer](https://www.youtube.com/watch?v=fFbHJQXk_qM)
+- [Gameplay](https://www.youtube.com/watch?v=ZKgzCRgkzhs)
+- [Download]()
+
+## 💬 Note
+
+If you have any suggestions or problems using the application, write to the
+mail.
+
+Before creating it, I was inspired by three games: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/), [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland) and [Magic Survivor](https://play.google.com/store/apps/details?id=com.vkslrzm.Zombie).
+
+## 🔐 License
+
+The source code is published under the MIT license, which is available [here](LICENSE).
+
+---
+
+> nikitayudin782@gmail.com &nbsp;&middot;&nbsp;
+> GitHub [@nblackninja](https://github.com/с) &nbsp;&middot;&nbsp;
+> Telegram [@yudinikita](https://t.me/yudinikita)
