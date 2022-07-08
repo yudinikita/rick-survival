@@ -29,23 +29,25 @@ export default class Cheats {
   }
 
   update() {
-    if (this.enable) {
-      if (this.controls.e.isDown) {
-        this.player.addExperience(5)
-      }
+    if (!this.enable) {
+      return
+    }
 
-      if (this.controls.one.isDown) {
-        this.player.setSpeed = 300
-      }
+    if (this.controls.e.isDown) {
+      this.player.addExperience(5)
+    }
 
-      if (this.controls.two.isDown) {
-        this.player.setMaximumHitPoints = 10_000
-        this.player.setCurrentHitPoints = 10_000
-      }
+    if (this.controls.one.isDown) {
+      this.player.setSpeed = 300
+    }
 
-      if (this.controls.three.isDown) {
-        this.player.setBulletDamage = 5000
-      }
+    if (this.controls.two.isDown) {
+      this.player.setMaximumHitPoints = 10_000
+      this.player.setCurrentHitPoints = 10_000
+    }
+
+    if (this.controls.three.isDown) {
+      this.player.setBulletDamage = 5000
     }
   }
 }
