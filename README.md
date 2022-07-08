@@ -9,14 +9,14 @@
 <p align="center">
   You’re Rick Sanchez, everyone’s favorite unstable genius. Survive and destroy thousands of monsters!
   <br>
-  <a href="https://rick-survival.com"><strong>Explore Official Website »</strong></a>
+  <a href="https://rick-survival.vercel.app"><strong>Explore Official Website »</strong></a>
   <br>
   <br>
   <a href="https://www.youtube.com/watch?v=fFbHJQXk_qM">Trailer</a>
   ·
   <a href="https://www.youtube.com/watch?v=ZKgzCRgkzhs">Gameplay Video</a>
   ·
-  <a href="https://rick-survival.com">Download</a>
+  <a href="https://github.com/nblackninja/rick-survival/releases/latest">Download</a>
 </p>
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178049123-edb92253-aeef-4f41-be85-a99fec02ce1f.gif" width="50">
@@ -120,10 +120,10 @@ yarn electron:dist
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178063027-ce2f4cc0-3322-43fe-aa46-5ecf0d570cf1.gif" width="50">
 
 ## 🗂 Resourses
-- [Official Website](https://www.youtube.com/watch?v=fFbHJQXk_qM)
+- [Official Website](https://rick-survival.vercel.app)
 - [Trailer](https://www.youtube.com/watch?v=fFbHJQXk_qM)
 - [Gameplay](https://www.youtube.com/watch?v=ZKgzCRgkzhs)
-- [Download]()
+- [Download](https://github.com/nblackninja/rick-survival/releases/latest)
 
 <img align='right' src="https://user-images.githubusercontent.com/36636599/178062377-7e547aa2-1566-4b1b-869e-54d8e9bdec98.gif" width="50">
 
