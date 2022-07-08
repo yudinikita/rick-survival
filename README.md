@@ -19,6 +19,8 @@
   <a href="https://blog.getbootstrap.com/">Download</a>
 </p>
 
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178049123-edb92253-aeef-4f41-be85-a99fec02ce1f.gif" width="50">
+
 # Rick Survival
 
 This is an Action-Rogulike survival game with RPG elements. The game is set in different dimensions, where you have to survive against ever-growing hordes of monsters.
