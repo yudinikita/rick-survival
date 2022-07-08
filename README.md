@@ -23,7 +23,7 @@
 
 # Rick Survival
 
-English | [Русский](README_ru.md)
+English | [Русский](README-ru.md)
 
 This is an Action-Rogulike survival game with RPG elements. The game is set in different dimensions, where you have to survive against ever-growing hordes of monsters.
 
