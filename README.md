@@ -36,3 +36,31 @@ This is an Action-Rogulike survival game with RPG elements. The game is set in d
 - [Electron](https://github.com/electron/electron) - Build cross-platform desktop game
 - [Vue/Nuxt](https://github.com/nuxt/framework) - Front-end framework for website
 - [TypeScript](https://github.com/microsoft/TypeScript) and [ES6](https://github.com/eslint/eslint) - for both client and server sides
+
+<img align='right' src="https://user-images.githubusercontent.com/36636599/178054752-b5d20d68-167f-4e1b-88c0-e6472d9d296f.gif" width="50">
+
+## Features
+- Random Worlds Generation
+- - 11 exciting dimensions
+- Drop items from enemies
+- - Experience, Money & Health
+- Character Evolution
+- - 46 different Ricks
+- - Evolution at levels 15-20-25-30
+- Upgrade 7 characteristics
+- - health regeneration
+- - maximum health
+- - body damage
+- - bullet speed
+- - bullet damage
+- - reload
+- - movement speed
+- 33 unique weapons
+- 4 styles of play
+- - Pistol (balance)
+- - Sniper (low rate of fire, high damage)
+- - Machine gun (high rate of fire, low damage)
+- - Hands (high health, high body damage)
+- 500 monsters in battle at once
+- - Enemies appear at random locations behind the screen
+- Animations, music and sounds
