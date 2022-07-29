@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://rick-survival.vercel.app/">
     <img src="https://user-images.githubusercontent.com/36636599/178037848-47ab3779-32a6-456f-9a00-e1d24c563608.png" alt="Rick Survival game logo" width="300">
   </a>
 </p>
